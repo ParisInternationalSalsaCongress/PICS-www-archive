@@ -1,0 +1,1604 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" ftp_hostname="ftp://home584615528.1and1-data.host" ftp_rootfolder="//2017" exportTarget="FTP" domain="www.parissalsacongress.com/2017" resolutions="1x,2x" timestamp="1499344138275">
+  <folder name="css">
+    <file name="site_global.css" crc="4045020305"/>
+    <file name="master_a-master.css" crc="326594885" ref="workshops:tickets:line-up:team:program:index:choreo-challenge:location"/>
+    <file name="nomq_preview_master_a-master.css" crc="3826752068" ref="workshops:tickets:line-up:team:program:index:choreo-challenge:location"/>
+    <file name="workshops.css" crc="4068683783" ref="workshops"/>
+    <file name="nomq_workshops.css" crc="4067118793" ref="workshops"/>
+    <file name="tickets.css" crc="3896841421" ref="tickets"/>
+    <file name="nomq_tickets.css" crc="3861737929" ref="tickets"/>
+    <file name="line-up.css" crc="3877634667" ref="line-up"/>
+    <file name="nomq_line-up.css" crc="449117218" ref="line-up"/>
+    <file name="early-pass-2018.css" crc="4157438034" ref="early-pass-2018"/>
+    <file name="nomq_early-pass-2018.css" crc="366250638" ref="early-pass-2018"/>
+    <file name="team.css" crc="4138249326" ref="team"/>
+    <file name="nomq_team.css" crc="4039337170" ref="team"/>
+    <file name="program.css" crc="117864994" ref="program"/>
+    <file name="nomq_program.css" crc="48911650" ref="program"/>
+    <file name="index.css" crc="4172341672" ref="index"/>
+    <file name="nomq_index.css" crc="367705328" ref="index"/>
+    <file name="choreo-challenge.css" crc="443774507" ref="choreo-challenge"/>
+    <file name="nomq_choreo-challenge.css" crc="214499336" ref="choreo-challenge"/>
+    <file name="location.css" crc="405636216" ref="location"/>
+    <file name="nomq_location.css" crc="3873434102" ref="location"/>
+  </folder>
+  <folder name="assets">
+    <file name="paris-international-salsa-congress-2018-web-logo-symbol.png" crc="4074528338" seo="true" mt="1492515485000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="museutils.js" crc="163421577" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="whatinput.js" crc="86476730" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="museconfig.js" crc="36584860" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="webpro.js" crc="3848665353" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u184308.php" crc="3837344381" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="require.js" crc="244322403" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="428601952" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops:early-pass-2018"/>
+    <file name="paris-international-salsa-congress-language-french24x24.png" crc="4239690963" seo="true" ref="index"/>
+    <file name="pasted-svg-24x27.svg" crc="423167835" seo="true" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="pasted svg 24x27_poster_.png" crc="4026860681" ref="index"/>
+    <file name="3981098x624.jpg" crc="4138679746" seo="true" ref="index"/>
+    <file name="3981098x624_2x.jpg" crc="4195356558" seo="true" ref="index"/>
+    <file name="u124992-5.png" crc="449836101" ref="index"/>
+    <file name="u124992-5_2x.png" crc="3915662100" ref="index"/>
+    <file name="u124993-10.png" crc="19777633" ref="index"/>
+    <file name="u124993-10_2x.png" crc="4076106" ref="index"/>
+    <file name="pasted-svg-150752x336.svg" crc="3888258777" seo="true" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="pasted svg 150752x336_poster_.png" crc="4148303148" ref="index"/>
+    <file name="u124998-9.png" crc="338715294" ref="index"/>
+    <file name="u124998-9_2x.png" crc="298513080" ref="index"/>
+    <file name="20 b-sergio - bianca-crop-u99468.png" crc="376897188" ref="index"/>
+    <file name="u124951-9.png" crc="45955338" ref="index"/>
+    <file name="u124951-9_2x.png" crc="466437661" ref="index"/>
+    <file name="u124952-10.png" crc="138525517" ref="index"/>
+    <file name="u124952-10_2x.png" crc="50894799" ref="index"/>
+    <file name="u124957-9.png" crc="338715294" ref="index"/>
+    <file name="u124957-9_2x.png" crc="298513080" ref="index"/>
+    <file name="447-crop-u99501.png" crc="39677960" ref="index"/>
+    <file name="447-crop-u99501_2x.png" crc="4276132168" ref="index"/>
+    <file name="u124910-10.png" crc="3818908012" ref="index"/>
+    <file name="u124910-10_2x.png" crc="3884062341" ref="index"/>
+    <file name="u124911-10.png" crc="22622802" ref="index"/>
+    <file name="u124911-10_2x.png" crc="4175146129" ref="index"/>
+    <file name="u124916-9.png" crc="338715294" ref="index"/>
+    <file name="u124916-9_2x.png" crc="298513080" ref="index"/>
+    <file name="171.jpg" crc="3847022173" seo="true" ref="index"/>
+    <file name="171_2x.jpg" crc="4167092680" seo="true" ref="index"/>
+    <file name="u124828-9.png" crc="444146511" ref="index"/>
+    <file name="u124828-9_2x.png" crc="66539530" ref="index"/>
+    <file name="u124829-10.png" crc="320675402" ref="index"/>
+    <file name="u124829-10_2x.png" crc="4253814010" ref="index"/>
+    <file name="u124834-9.png" crc="338715294" ref="index"/>
+    <file name="u124834-9_2x.png" crc="298513080" ref="index"/>
+    <file name="337.jpg" crc="4121135674" seo="true" ref="index"/>
+    <file name="337_2x.jpg" crc="3976070149" seo="true" ref="index"/>
+    <file name="u99485-10.png" crc="240595590" ref="index"/>
+    <file name="u99485-10_2x.png" crc="256946920" ref="index"/>
+    <file name="u99490-10.png" crc="3997173378" ref="index"/>
+    <file name="u99490-10_2x.png" crc="355732306" ref="index"/>
+    <file name="u99483-9.png" crc="338715294" ref="index"/>
+    <file name="u99483-9_2x.png" crc="298513080" ref="index"/>
+    <file name="465-crop-u99479.png" crc="360543443" ref="index"/>
+    <file name="465-crop-u99479_2x.png" crc="65571237" ref="index"/>
+    <file name="u124786-11.png" crc="293614650" ref="index"/>
+    <file name="u124786-11_2x.png" crc="3959409380" ref="index"/>
+    <file name="u124787-10.png" crc="4266711399" ref="index"/>
+    <file name="u124787-10_2x.png" crc="454546568" ref="index"/>
+    <file name="u124792-9.png" crc="338715294" ref="index"/>
+    <file name="u124792-9_2x.png" crc="298513080" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-hyatt1.jpg" crc="472876159" seo="true" ref="index"/>
+    <file name="u194699-10.png" crc="3920761927" ref="index"/>
+    <file name="u194699-10_2x.png" crc="408845299" ref="index"/>
+    <file name="u194700-10.png" crc="196496892" ref="index"/>
+    <file name="u194700-10_2x.png" crc="106206504" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-mouaze-mascot133x187.jpg" crc="4015306862" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-mouaze-mascot133x187_2x.jpg" crc="4076141323" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-video-intro-2565x318.jpg" crc="4042139381" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-video-intro-1565x318.jpg" crc="343329484" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-banner-1.jpg" crc="114314906" seo="true" ref="index"/>
+    <file name="05 karel flores-crop-u99526.png" crc="3897242791" ref="index"/>
+    <file name="05 karel flores-crop-u99526_2x.png" crc="74806388" ref="index"/>
+    <file name="20 b-sergio - bianca-crop-u99529.png" crc="191743320" ref="index"/>
+    <file name="20 b-sergio - bianca-crop-u99529_2x.png" crc="165021749" ref="index"/>
+    <file name="paris-international-salsa-congress-2017-illustration-barbas-u107199.png" crc="55129050" ref="index"/>
+    <file name="pasted-svg-150752x3362.svg" crc="208678665" seo="true" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="pasted svg 150752x336_poster_2.png" crc="4057173019" ref="index"/>
+    <file name="u60268-11.png" crc="261449732" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="u60268-11_2x.png" crc="3995595609" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm175x21.png" crc="306827519" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm175x21_2x.png" crc="45997016" seo="true" ref="index"/>
+    <file name="u60270-9.png" crc="3819840077" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="u60270-9_2x.png" crc="4161282389" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="u60269-9.png" crc="4130492939" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="u60269-9_2x.png" crc="449633634" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="2017-paris-international-salsa-congress-hyatt-logo93x22.png" crc="4055801297" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-hyatt-logo93x22_2x.png" crc="4107750588" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-mouaze-mascot.jpg" crc="101645312" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-mouaze-mascot_2x.jpg" crc="264173432" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-video-intro-2572x322.jpg" crc="286356180" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-video-intro-1572x322.jpg" crc="92222640" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-banner-1688x67.jpg" crc="48640333" seo="true" ref="index"/>
+    <file name="05 karel flores-crop-u995262.png" crc="3897242791" ref="index"/>
+    <file name="05 karel flores-crop-u99526_2x2.png" crc="74806388" ref="index"/>
+    <file name="20 b-sergio - bianca-crop-u995292.png" crc="191743320" ref="index"/>
+    <file name="20 b-sergio - bianca-crop-u99529_2x2.png" crc="165021749" ref="index"/>
+    <file name="398732x416.jpg" crc="360495674" seo="true" ref="index"/>
+    <file name="398732x416_2x.jpg" crc="534592905" seo="true" ref="index"/>
+    <file name="u124992-52.png" crc="395065680" ref="index"/>
+    <file name="u124992-5_2x2.png" crc="206224842" ref="index"/>
+    <file name="u124993-102.png" crc="4042711277" ref="index"/>
+    <file name="u124993-10_2x2.png" crc="28384976" ref="index"/>
+    <file name="u124998-92.png" crc="48243576" ref="index"/>
+    <file name="u124998-9_2x2.png" crc="3943061077" ref="index"/>
+    <file name="20 b-sergio - bianca-crop-u994682.png" crc="4233955362" ref="index"/>
+    <file name="u124951-92.png" crc="4171136457" ref="index"/>
+    <file name="u124951-9_2x2.png" crc="4182635734" ref="index"/>
+    <file name="u124952-102.png" crc="172779230" ref="index"/>
+    <file name="u124952-10_2x2.png" crc="222803198" ref="index"/>
+    <file name="u124957-92.png" crc="48243576" ref="index"/>
+    <file name="u124957-9_2x2.png" crc="3943061077" ref="index"/>
+    <file name="447-crop-u995012.png" crc="4292487958" ref="index"/>
+    <file name="447-crop-u99501_2x2.png" crc="293863371" ref="index"/>
+    <file name="u124910-102.png" crc="156978610" ref="index"/>
+    <file name="u124910-10_2x2.png" crc="436631635" ref="index"/>
+    <file name="u124911-102.png" crc="3934651710" ref="index"/>
+    <file name="u124911-10_2x2.png" crc="4274865587" ref="index"/>
+    <file name="u124916-92.png" crc="48243576" ref="index"/>
+    <file name="u124916-9_2x2.png" crc="3943061077" ref="index"/>
+    <file name="171732x467.jpg" crc="195809925" seo="true" ref="index"/>
+    <file name="171732x467_2x.jpg" crc="4022082725" seo="true" ref="index"/>
+    <file name="u124828-92.png" crc="3760809352" ref="index"/>
+    <file name="u124828-9_2x2.png" crc="4223155754" ref="index"/>
+    <file name="u124829-102.png" crc="343698477" ref="index"/>
+    <file name="u124829-10_2x2.png" crc="7609933" ref="index"/>
+    <file name="u124834-92.png" crc="48243576" ref="index"/>
+    <file name="u124834-9_2x2.png" crc="3943061077" ref="index"/>
+    <file name="337732x457.jpg" crc="217693260" seo="true" ref="index"/>
+    <file name="337732x457_2x.jpg" crc="4200546212" seo="true" ref="index"/>
+    <file name="u99485-102.png" crc="395784883" ref="index"/>
+    <file name="u99485-10_2x2.png" crc="107738162" ref="index"/>
+    <file name="u99490-102.png" crc="436282694" ref="index"/>
+    <file name="u99490-10_2x2.png" crc="425185801" ref="index"/>
+    <file name="u99483-92.png" crc="48243576" ref="index"/>
+    <file name="u99483-9_2x2.png" crc="3943061077" ref="index"/>
+    <file name="465-crop-u994792.png" crc="118719556" ref="index"/>
+    <file name="465-crop-u99479_2x2.png" crc="3978263525" ref="index"/>
+    <file name="u124786-112.png" crc="376662530" ref="index"/>
+    <file name="u124786-11_2x2.png" crc="3786412649" ref="index"/>
+    <file name="u124787-102.png" crc="86169477" ref="index"/>
+    <file name="u124787-10_2x2.png" crc="379296474" ref="index"/>
+    <file name="u124792-92.png" crc="48243576" ref="index"/>
+    <file name="u124792-9_2x2.png" crc="3943061077" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-hyatt1-crop-u194697.png" crc="395000180" ref="index"/>
+    <file name="u194699-102.png" crc="153491184" ref="index"/>
+    <file name="u194699-10_2x2.png" crc="4000491386" ref="index"/>
+    <file name="u194700-102.png" crc="3914597686" ref="index"/>
+    <file name="u194700-10_2x2.png" crc="525867391" ref="index"/>
+    <file name="paris-international-salsa-congress-2017-illustration-barbas-u1071992.png" crc="3935252392" ref="index"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm210x25.png" crc="495599900" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm210x25_2x.png" crc="4111956150" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-hyatt-logo123x29.png" crc="202796136" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-hyatt-logo123x29_2x.png" crc="3838845905" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-language-french.png" crc="426348223" seo="true" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="2017-paris-international-salsa-congress-video-intro-2.jpg" crc="115121449" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-video-intro-1.jpg" crc="4015957525" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-banner-1-crop-u101430.png" crc="515327422" ref="index"/>
+    <file name="05 karel flores-crop-u995263.png" crc="4093271471" ref="index"/>
+    <file name="05 karel flores-crop-u99526_2x3.png" crc="471457145" ref="index"/>
+    <file name="20 b-sergio - bianca-crop-u995293.png" crc="3959534850" ref="index"/>
+    <file name="20 b-sergio - bianca-crop-u99529_2x3.png" crc="448410272" ref="index"/>
+    <file name="398-crop-u99458.png" crc="3785811750" ref="index"/>
+    <file name="398-crop-u99458_2x.png" crc="38590857" ref="index"/>
+    <file name="u124992-53.png" crc="4240510680" ref="index"/>
+    <file name="u124992-5_2x3.png" crc="307901629" ref="index"/>
+    <file name="u124993-103.png" crc="423198917" ref="index"/>
+    <file name="u124993-10_2x3.png" crc="4057327182" ref="index"/>
+    <file name="u124998-93.png" crc="4119291066" ref="index"/>
+    <file name="u124998-9_2x3.png" crc="217259093" ref="index"/>
+    <file name="20 b-sergio - bianca-crop-u994683.png" crc="3926166548" ref="index"/>
+    <file name="u124951-93.png" crc="253155181" ref="index"/>
+    <file name="u124951-9_2x3.png" crc="3989516438" ref="index"/>
+    <file name="u124952-103.png" crc="4156597303" ref="index"/>
+    <file name="u124952-10_2x3.png" crc="4083908297" ref="index"/>
+    <file name="u124957-93.png" crc="4119291066" ref="index"/>
+    <file name="u124957-9_2x3.png" crc="217259093" ref="index"/>
+    <file name="447-crop-u995013.png" crc="190760032" ref="index"/>
+    <file name="447-crop-u99501_2x3.png" crc="27528913" ref="index"/>
+    <file name="u124910-103.png" crc="4198771978" ref="index"/>
+    <file name="u124910-10_2x3.png" crc="290552194" ref="index"/>
+    <file name="u124911-103.png" crc="4117183749" ref="index"/>
+    <file name="u124911-10_2x3.png" crc="230595535" ref="index"/>
+    <file name="u124916-93.png" crc="4119291066" ref="index"/>
+    <file name="u124916-9_2x3.png" crc="217259093" ref="index"/>
+    <file name="171-crop-u99496.png" crc="3919222976" ref="index"/>
+    <file name="171-crop-u99496_2x.png" crc="441548525" ref="index"/>
+    <file name="u124828-93.png" crc="234926463" ref="index"/>
+    <file name="u124828-9_2x3.png" crc="3811610396" ref="index"/>
+    <file name="u124829-103.png" crc="356553580" ref="index"/>
+    <file name="u124829-10_2x3.png" crc="435580737" ref="index"/>
+    <file name="u124834-93.png" crc="4119291066" ref="index"/>
+    <file name="u124834-9_2x3.png" crc="217259093" ref="index"/>
+    <file name="337755x470.jpg" crc="242810155" seo="true" ref="index"/>
+    <file name="337755x470_2x.jpg" crc="4250897278" seo="true" ref="index"/>
+    <file name="u99485-103.png" crc="1168453" ref="index"/>
+    <file name="u99485-10_2x3.png" crc="406956925" ref="index"/>
+    <file name="u99490-103.png" crc="4174714751" ref="index"/>
+    <file name="u99490-10_2x3.png" crc="148689720" ref="index"/>
+    <file name="u99483-93.png" crc="4119291066" ref="index"/>
+    <file name="u99483-9_2x3.png" crc="217259093" ref="index"/>
+    <file name="465-crop-u994793.png" crc="4225436890" ref="index"/>
+    <file name="465-crop-u99479_2x3.png" crc="4069787836" ref="index"/>
+    <file name="u124786-113.png" crc="4227580736" ref="index"/>
+    <file name="u124786-11_2x3.png" crc="201369356" ref="index"/>
+    <file name="u124787-103.png" crc="151189808" ref="index"/>
+    <file name="u124787-10_2x3.png" crc="26983020" ref="index"/>
+    <file name="u124792-93.png" crc="4119291066" ref="index"/>
+    <file name="u124792-9_2x3.png" crc="217259093" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-hyatt1640x480.jpg" crc="479180692" seo="true" ref="index"/>
+    <file name="u194699-103.png" crc="299981387" ref="index"/>
+    <file name="u194699-10_2x3.png" crc="3887265322" ref="index"/>
+    <file name="u194700-103.png" crc="4159266316" ref="index"/>
+    <file name="u194700-10_2x3.png" crc="3967542012" ref="index"/>
+    <file name="paris-international-salsa-congress-2017-illustration-barbas-u1071993.png" crc="263555699" ref="index"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm363x43.png" crc="3959506649" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm363x43_2x.png" crc="4111956150" seo="true" ref="index"/>
+    <file name="2017-paris-international-salsa-congress-hyatt-logo.png" crc="4283950065" seo="true" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="2017-paris-international-salsa-congress-hyatt-logo_2x.png" crc="460259050" seo="true" ref="index:line-up:program:location:tickets:team:choreo-challenge:workshops"/>
+    <file name="paris-international-salsa-congress-banner-4.jpg" crc="3952532178" seo="true" ref="line-up"/>
+    <file name="01 yamulee-crop-u74758.png" crc="299810663" ref="line-up"/>
+    <file name="02 eddie torres jr-crop-u75172.png" crc="320185942" ref="line-up"/>
+    <file name="03 tito - tamara-crop-u75589.png" crc="353749024" ref="line-up"/>
+    <file name="03 tito - tamara-crop-u75589_2x.png" crc="110305450" ref="line-up"/>
+    <file name="05 karel flores-crop-u77003.png" crc="3897242791" ref="line-up"/>
+    <file name="05 karel flores-crop-u77003_2x.png" crc="74806388" ref="line-up"/>
+    <file name="06 rodrigo - carla-crop-u77314.png" crc="355474381" ref="line-up"/>
+    <file name="06 rodrigo - carla-crop-u77314_2x.png" crc="150662890" ref="line-up"/>
+    <file name="07 euphoria-crop-u77391.png" crc="155564291" ref="line-up"/>
+    <file name="07 euphoria-crop-u77391_2x.png" crc="87337950" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u77518.png" crc="114053998" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u77518_2x.png" crc="436015898" ref="line-up"/>
+    <file name="09 mouaze - ella-crop-u77875.png" crc="4035549036" ref="line-up"/>
+    <file name="09 mouaze - ella-crop-u77875_2x.png" crc="4175650390" ref="line-up"/>
+    <file name="photo 08-11-2016 19 14 10-crop-u83076.png" crc="507755315" ref="line-up"/>
+    <file name="photo 08-11-2016 19 14 10-crop-u83076_2x.png" crc="3921621131" ref="line-up"/>
+    <file name="10 leon rose-crop-u78054.png" crc="304867722" ref="line-up"/>
+    <file name="11 shelina-s team-crop-u78158.png" crc="4137288032" ref="line-up"/>
+    <file name="11 shelina-s team-crop-u78158_2x.png" crc="263240864" ref="line-up"/>
+    <file name="fanny-crop-u88113.png" crc="4020592096" ref="line-up"/>
+    <file name="fanny-crop-u88113_2x.png" crc="446987482" ref="line-up"/>
+    <file name="12 talal - edyta-crop-u78240.png" crc="389805981" ref="line-up"/>
+    <file name="12 talal - edyta-crop-u78240_2x.png" crc="3946289970" ref="line-up"/>
+    <file name="13 aura group-crop-u78655.png" crc="4120899035" ref="line-up"/>
+    <file name="13 aura group-crop-u78655_2x.png" crc="3946999802" ref="line-up"/>
+    <file name="14 palamambo-crop-u78720.png" crc="3763369349" ref="line-up"/>
+    <file name="14 palamambo-crop-u78720_2x.png" crc="4162838104" ref="line-up"/>
+    <file name="15 aude m-crop-u78785.png" crc="4254998478" ref="line-up"/>
+    <file name="15 aude m-crop-u78785_2x.png" crc="4062685887" ref="line-up"/>
+    <file name="14877063_1371808736192432_1050620027_n-crop-u90605.png" crc="4021439572" ref="line-up"/>
+    <file name="428-crop-u90638.png" crc="3922677797" ref="line-up"/>
+    <file name="428-crop-u90638_2x.png" crc="3777915980" ref="line-up"/>
+    <file name="img_6349jpg-crop-u178347.png" crc="3808467759" ref="line-up"/>
+    <file name="img_6349jpg-crop-u178347_2x.png" crc="337119202" ref="line-up"/>
+    <file name="291-crop-u184872.png" crc="3841607647" ref="line-up"/>
+    <file name="291-crop-u184872_2x.png" crc="3789896740" ref="line-up"/>
+    <file name="1 - dj willy-crop-u80267.png" crc="497507134" ref="line-up"/>
+    <file name="1 - dj willy-crop-u80267_2x.png" crc="13231248" ref="line-up"/>
+    <file name="2 - o-sullivans gabriel-crop-u80290.png" crc="173239333" ref="line-up"/>
+    <file name="2 - o-sullivans gabriel-crop-u80290_2x.png" crc="4084771056" ref="line-up"/>
+    <file name="3 - djvip®-crop-u80313.png" crc="4091251256" ref="line-up"/>
+    <file name="4 - noel dj mulato2-crop-u80336.png" crc="4154625131" ref="line-up"/>
+    <file name="5 - djloic-crop-u80359.png" crc="206055633" ref="line-up"/>
+    <file name="6 - cyrine1-crop-u80382.png" crc="388022792" ref="line-up"/>
+    <file name="7 - dj sergio-crop-u80405.png" crc="3820915817" ref="line-up"/>
+    <file name="7 - dj sergio-crop-u80405_2x.png" crc="4103689170" ref="line-up"/>
+    <file name="8 - phil-crop-u80428.png" crc="4105724883" ref="line-up"/>
+    <file name="9 - madj-crop-u80451.png" crc="426765869" ref="line-up"/>
+    <file name="10 - dj 69-crop-u80474.png" crc="3910584959" ref="line-up"/>
+    <file name="10 - dj 69-crop-u80474_2x.png" crc="126792853" ref="line-up"/>
+    <file name="dsc01941-crop-u195501.png" crc="3862675323" ref="line-up"/>
+    <file name="dsc01941-crop-u195501_2x.png" crc="3901462296" ref="line-up"/>
+    <file name="16 c-alberto valdes-crop-u78850.png" crc="3827635974" ref="line-up"/>
+    <file name="16 c-alberto valdes-crop-u78850_2x.png" crc="3905778761" ref="line-up"/>
+    <file name="18 c-pedrito - guisy-crop-u79448.png" crc="4131719739" ref="line-up"/>
+    <file name="18 c-pedrito - guisy-crop-u79448_2x.png" crc="4064935455" ref="line-up"/>
+    <file name="19 c-osbanis - anneta105x105.jpg" crc="4066496037" seo="true" ref="line-up"/>
+    <file name="19 c-osbanis - anneta105x105_2x.jpg" crc="3974559344" seo="true" ref="line-up"/>
+    <file name="20 b-sergio - bianca-crop-u79546.png" crc="191743320" ref="line-up"/>
+    <file name="20 b-sergio - bianca-crop-u79546_2x.png" crc="165021749" ref="line-up"/>
+    <file name="21 b-alex - desiree-crop-u79569.png" crc="4060463465" ref="line-up"/>
+    <file name="21 b-alex - desiree-crop-u79569_2x.png" crc="11453133" ref="line-up"/>
+    <file name="018-crop-u79599.png" crc="231206584" ref="line-up"/>
+    <file name="018-crop-u79599_2x.png" crc="301712627" ref="line-up"/>
+    <file name="11 - dj perdon-crop-u80767.png" crc="4069330263" ref="line-up"/>
+    <file name="11 - dj perdon-crop-u80767_2x.png" crc="4041766655" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-el-hombre-crop-u102342.png" crc="3938506731" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-latinoboy-crop-u102372.png" crc="3805193929" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-latinoboy-crop-u102372_2x.png" crc="112283575" ref="line-up"/>
+    <file name="fb_img_1459071340670-crop-u90707.png" crc="245277341" ref="line-up"/>
+    <file name="fb_img_1459071340670-crop-u90707_2x.png" crc="89983513" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u90661.png" crc="103050913" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u90661_2x.png" crc="105192528" ref="line-up"/>
+    <file name="chamalo and lydia-crop-u83096.png" crc="4216426224" ref="line-up"/>
+    <file name="chamalo and lydia-crop-u83096_2x.png" crc="201321900" ref="line-up"/>
+    <file name="georges - laura-crop-u80836.png" crc="4095686423" ref="line-up"/>
+    <file name="georges - laura-crop-u80836_2x.png" crc="4096968199" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-isabelle-and-felicien-crop-u102522.png" crc="420884103" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-isabelle-and-felicien-crop-u102522_2x.png" crc="153919272" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-artists-killian-crop-u111150.png" crc="4244035927" ref="line-up"/>
+    <file name="12 - dj chad-crop-u80790.png" crc="258763171" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u80813.png" crc="79025507" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u80813_2x.png" crc="4244653098" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u90684.png" crc="6475198" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u90684_2x.png" crc="141934678" ref="line-up"/>
+    <file name="01 yamulee-crop-u74554.png" crc="342574472" ref="line-up"/>
+    <file name="01 yamulee-crop-u74554_2x.png" crc="4055620364" ref="line-up"/>
+    <file name="u74556-4.png" crc="487366079" ref="line-up"/>
+    <file name="u74556-4_2x.png" crc="269126701" ref="line-up"/>
+    <file name="u74552-4.png" crc="154302347" ref="line-up"/>
+    <file name="u74552-4_2x.png" crc="3863640757" ref="line-up"/>
+    <file name="02 eddie torres jr-crop-u75140.png" crc="4064265131" ref="line-up"/>
+    <file name="u75142-4.png" crc="487366079" ref="line-up"/>
+    <file name="u75142-4_2x.png" crc="269126701" ref="line-up"/>
+    <file name="u75146-4.png" crc="97672442" ref="line-up"/>
+    <file name="u75146-4_2x.png" crc="4050892651" ref="line-up"/>
+    <file name="03 tito - tamara-crop-u75596.png" crc="4274376819" ref="line-up"/>
+    <file name="u75598-4.png" crc="416781456" ref="line-up"/>
+    <file name="u75598-4_2x.png" crc="517566897" ref="line-up"/>
+    <file name="u75602-4.png" crc="199010247" ref="line-up"/>
+    <file name="u75602-4_2x.png" crc="4274002215" ref="line-up"/>
+    <file name="05 karel flores-crop-u77017.png" crc="43260491" ref="line-up"/>
+    <file name="05 karel flores-crop-u77017_2x.png" crc="4184836498" ref="line-up"/>
+    <file name="u77019-4.png" crc="487366079" ref="line-up"/>
+    <file name="u77019-4_2x.png" crc="269126701" ref="line-up"/>
+    <file name="u77023-4.png" crc="14754360" ref="line-up"/>
+    <file name="u77023-4_2x.png" crc="438713625" ref="line-up"/>
+    <file name="06 rodrigo - carla.jpg" crc="279422086" seo="true" ref="line-up"/>
+    <file name="u77333-4.png" crc="3900423810" ref="line-up"/>
+    <file name="u77333-4_2x.png" crc="3933088606" ref="line-up"/>
+    <file name="u77337-4.png" crc="107472598" ref="line-up"/>
+    <file name="u77337-4_2x.png" crc="73739000" ref="line-up"/>
+    <file name="07 euphoria-crop-u77401.png" crc="390955047" ref="line-up"/>
+    <file name="07 euphoria-crop-u77401_2x.png" crc="449731552" ref="line-up"/>
+    <file name="u77403-4.png" crc="180520157" ref="line-up"/>
+    <file name="u77403-4_2x.png" crc="403125655" ref="line-up"/>
+    <file name="u77407-4.png" crc="431878596" ref="line-up"/>
+    <file name="u77407-4_2x.png" crc="4051300266" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u77528.png" crc="4189366989" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u77528_2x.png" crc="216728925" ref="line-up"/>
+    <file name="u77530-4.png" crc="447253629" ref="line-up"/>
+    <file name="u77530-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u77534-4.png" crc="64439503" ref="line-up"/>
+    <file name="u77534-4_2x.png" crc="451686366" ref="line-up"/>
+    <file name="09 mouaze - ella.jpg" crc="406875773" seo="true" ref="line-up"/>
+    <file name="u77912-4.png" crc="402417238" ref="line-up"/>
+    <file name="u77912-4_2x.png" crc="4051908065" ref="line-up"/>
+    <file name="u77916-4.png" crc="4238426162" ref="line-up"/>
+    <file name="u77916-4_2x.png" crc="240636545" ref="line-up"/>
+    <file name="photo 08-11-2016 19 14 10.jpg" crc="496902076" seo="true" ref="line-up"/>
+    <file name="u77994-4.png" crc="447253629" ref="line-up"/>
+    <file name="u77994-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u77998-4.png" crc="80772247" ref="line-up"/>
+    <file name="u77998-4_2x.png" crc="3968984335" ref="line-up"/>
+    <file name="10 leon rose-crop-u78071.png" crc="3805871699" ref="line-up"/>
+    <file name="10 leon rose-crop-u78071_2x.png" crc="260131724" ref="line-up"/>
+    <file name="u78073-4.png" crc="207055133" ref="line-up"/>
+    <file name="u78073-4_2x.png" crc="3797095131" ref="line-up"/>
+    <file name="u78077-4.png" crc="424882301" ref="line-up"/>
+    <file name="u78077-4_2x.png" crc="407941192" ref="line-up"/>
+    <file name="11 shelina-s team-crop-u78168.png" crc="4158381147" ref="line-up"/>
+    <file name="u78170-4.png" crc="4220168023" ref="line-up"/>
+    <file name="u78170-4_2x.png" crc="383802711" ref="line-up"/>
+    <file name="u78174-4.png" crc="432919133" ref="line-up"/>
+    <file name="u78174-4_2x.png" crc="314680632" ref="line-up"/>
+    <file name="fanny.jpg" crc="4147512682" seo="true" ref="line-up"/>
+    <file name="u88138-4.png" crc="447253629" ref="line-up"/>
+    <file name="u88138-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u88139-4.png" crc="176096348" ref="line-up"/>
+    <file name="u88139-4_2x.png" crc="370796530" ref="line-up"/>
+    <file name="12 talal - edyta.jpg" crc="503669922" seo="true" ref="line-up"/>
+    <file name="12 talal - edyta_2x.jpg" crc="525110913" seo="true" ref="line-up"/>
+    <file name="u78255-4.png" crc="505915943" ref="line-up"/>
+    <file name="u78255-4_2x.png" crc="4233019218" ref="line-up"/>
+    <file name="u78259-4.png" crc="4229178782" ref="line-up"/>
+    <file name="u78259-4_2x.png" crc="434420288" ref="line-up"/>
+    <file name="13 aura group-crop-u78665.png" crc="21653206" ref="line-up"/>
+    <file name="13 aura group-crop-u78665_2x.png" crc="140982034" ref="line-up"/>
+    <file name="u78667-4.png" crc="4069734154" ref="line-up"/>
+    <file name="u78667-4_2x.png" crc="399466017" ref="line-up"/>
+    <file name="u78671-4.png" crc="451767246" ref="line-up"/>
+    <file name="u78671-4_2x.png" crc="4160261642" ref="line-up"/>
+    <file name="14 palamambo-crop-u78730.png" crc="4248167762" ref="line-up"/>
+    <file name="14 palamambo-crop-u78730_2x.png" crc="3915498380" ref="line-up"/>
+    <file name="u78732-4.png" crc="447253629" ref="line-up"/>
+    <file name="u78732-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u78736-4.png" crc="4277538563" ref="line-up"/>
+    <file name="u78736-4_2x.png" crc="34697073" ref="line-up"/>
+    <file name="15 aude m.jpg" crc="3991386173" seo="true" ref="line-up"/>
+    <file name="15 aude m_2x.jpg" crc="447983606" seo="true" ref="line-up"/>
+    <file name="u78797-4.png" crc="447253629" ref="line-up"/>
+    <file name="u78797-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u78801-4.png" crc="4137978241" ref="line-up"/>
+    <file name="u78801-4_2x.png" crc="4270784262" ref="line-up"/>
+    <file name="14877063_1371808736192432_1050620027_n.jpg" crc="3801567348" seo="true" ref="line-up"/>
+    <file name="u94712-4.png" crc="447253629" ref="line-up"/>
+    <file name="u94712-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u94716-4.png" crc="138174868" ref="line-up"/>
+    <file name="u94716-4_2x.png" crc="4025439643" ref="line-up"/>
+    <file name="4281222x680.jpg" crc="3860383699" seo="true" ref="line-up"/>
+    <file name="4281222x680_2x.jpg" crc="409925346" seo="true" ref="line-up"/>
+    <file name="u94741-4.png" crc="215545009" ref="line-up"/>
+    <file name="u94741-4_2x.png" crc="520956021" ref="line-up"/>
+    <file name="u94745-4.png" crc="49360218" ref="line-up"/>
+    <file name="u94745-4_2x.png" crc="3780399755" ref="line-up"/>
+    <file name="img_6349jpg.jpg" crc="4275576112" seo="true" ref="line-up"/>
+    <file name="u178377-4.png" crc="3850974454" ref="line-up"/>
+    <file name="u178377-4_2x.png" crc="4266592488" ref="line-up"/>
+    <file name="u178381-4.png" crc="342446505" ref="line-up"/>
+    <file name="u178381-4_2x.png" crc="178336521" ref="line-up"/>
+    <file name="291.jpg" crc="420774171" seo="true" ref="line-up"/>
+    <file name="291_2x.jpg" crc="277779826" seo="true" ref="line-up"/>
+    <file name="u184940-4.png" crc="4152883734" ref="line-up"/>
+    <file name="u184940-4_2x.png" crc="411357989" ref="line-up"/>
+    <file name="u184944-4.png" crc="491771951" ref="line-up"/>
+    <file name="u184944-4_2x.png" crc="80744479" ref="line-up"/>
+    <file name="1 - dj willy.jpg" crc="3910002856" seo="true" ref="line-up"/>
+    <file name="u80486-4.png" crc="4220168023" ref="line-up"/>
+    <file name="u80486-4_2x.png" crc="383802711" ref="line-up"/>
+    <file name="u80490-4.png" crc="199605601" ref="line-up"/>
+    <file name="u80490-4_2x.png" crc="329968619" ref="line-up"/>
+    <file name="2 - o-sullivans gabriel-crop-u80509.png" crc="106743709" ref="line-up"/>
+    <file name="u80511-4.png" crc="447253629" ref="line-up"/>
+    <file name="u80511-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u80515-4.png" crc="1717682" ref="line-up"/>
+    <file name="u80515-4_2x.png" crc="4131235598" ref="line-up"/>
+    <file name="3 - djvip®.jpg" crc="325689002" seo="true" ref="line-up"/>
+    <file name="u80536-4.png" crc="447253629" ref="line-up"/>
+    <file name="u80536-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u80540-4.png" crc="75003082" ref="line-up"/>
+    <file name="u80540-4_2x.png" crc="4076812828" ref="line-up"/>
+    <file name="4 - noel dj mulato2.jpg" crc="4095541152" seo="true" ref="line-up"/>
+    <file name="u80561-4.png" crc="447253629" ref="line-up"/>
+    <file name="u80561-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u80565-4.png" crc="323949411" ref="line-up"/>
+    <file name="u80565-4_2x.png" crc="59628586" ref="line-up"/>
+    <file name="5 - djloic.jpg" crc="4196408301" seo="true" ref="line-up"/>
+    <file name="u80586-4.png" crc="447253629" ref="line-up"/>
+    <file name="u80586-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u80590-4.png" crc="354107153" ref="line-up"/>
+    <file name="u80590-4_2x.png" crc="101605000" ref="line-up"/>
+    <file name="6 - cyrine1.jpg" crc="131272128" seo="true" ref="line-up"/>
+    <file name="u80611-4.png" crc="447253629" ref="line-up"/>
+    <file name="u80611-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u80615-4.png" crc="3840064657" ref="line-up"/>
+    <file name="u80615-4_2x.png" crc="4259490103" ref="line-up"/>
+    <file name="7 - dj sergio.jpg" crc="320859105" seo="true" ref="line-up"/>
+    <file name="u80636-4.png" crc="447253629" ref="line-up"/>
+    <file name="u80636-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u80640-4.png" crc="3808218086" ref="line-up"/>
+    <file name="u80640-4_2x.png" crc="4292249815" ref="line-up"/>
+    <file name="8 - phil.jpg" crc="4101135391" seo="true" ref="line-up"/>
+    <file name="u80661-4.png" crc="447253629" ref="line-up"/>
+    <file name="u80661-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u80665-4.png" crc="4081144724" ref="line-up"/>
+    <file name="u80665-4_2x.png" crc="44526317" ref="line-up"/>
+    <file name="9 - madj.jpg" crc="171516675" seo="true" ref="line-up"/>
+    <file name="u80686-4.png" crc="447253629" ref="line-up"/>
+    <file name="u80686-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u80690-4.png" crc="486003589" ref="line-up"/>
+    <file name="u80690-4_2x.png" crc="244522080" ref="line-up"/>
+    <file name="10 - dj 69.jpg" crc="200422331" seo="true" ref="line-up"/>
+    <file name="u80711-4.png" crc="447253629" ref="line-up"/>
+    <file name="u80711-4_2x.png" crc="101874532" ref="line-up"/>
+    <file name="u80715-4.png" crc="147399875" ref="line-up"/>
+    <file name="u80715-4_2x.png" crc="4052463467" ref="line-up"/>
+    <file name="dsc01941-crop-u195527.png" crc="99195559" ref="line-up"/>
+    <file name="dsc01941-crop-u195527_2x.png" crc="352674031" ref="line-up"/>
+    <file name="u195529-4.png" crc="4014999380" ref="line-up"/>
+    <file name="u195529-4_2x.png" crc="4143479446" ref="line-up"/>
+    <file name="u195533-4.png" crc="4195172176" ref="line-up"/>
+    <file name="u195533-4_2x.png" crc="3839099324" ref="line-up"/>
+    <file name="16 c-alberto valdes1134x701.jpg" crc="326235978" seo="true" ref="line-up"/>
+    <file name="16 c-alberto valdes1134x701_2x.jpg" crc="3780079385" seo="true" ref="line-up"/>
+    <file name="u78862-4.png" crc="3948385048" ref="line-up"/>
+    <file name="u78862-4_2x.png" crc="4097917008" ref="line-up"/>
+    <file name="u78866-4.png" crc="154867853" ref="line-up"/>
+    <file name="u78866-4_2x.png" crc="3892251831" ref="line-up"/>
+    <file name="18 c-pedrito - guisy.jpg" crc="4027661069" seo="true" ref="line-up"/>
+    <file name="18 c-pedrito - guisy_2x.jpg" crc="3770069222" seo="true" ref="line-up"/>
+    <file name="u79470-4.png" crc="4203308915" ref="line-up"/>
+    <file name="u79470-4_2x.png" crc="3973184852" ref="line-up"/>
+    <file name="u79474-4.png" crc="142896385" ref="line-up"/>
+    <file name="u79474-4_2x.png" crc="4066418590" ref="line-up"/>
+    <file name="19 c-osbanis - anneta.jpg" crc="3891966700" seo="true" ref="line-up"/>
+    <file name="u79611-4.png" crc="4128193708" ref="line-up"/>
+    <file name="u79611-4_2x.png" crc="86137434" ref="line-up"/>
+    <file name="u79615-4.png" crc="4094608145" ref="line-up"/>
+    <file name="u79615-4_2x.png" crc="92698153" ref="line-up"/>
+    <file name="20 b-sergio - bianca1134x756.jpg" crc="321894887" seo="true" ref="line-up"/>
+    <file name="u79636-4.png" crc="293803450" ref="line-up"/>
+    <file name="u79636-4_2x.png" crc="3841258825" ref="line-up"/>
+    <file name="u79640-4.png" crc="4220396630" ref="line-up"/>
+    <file name="u79640-4_2x.png" crc="312815699" ref="line-up"/>
+    <file name="21 b-alex - desiree-crop-u79659.png" crc="3969430981" ref="line-up"/>
+    <file name="u79661-4.png" crc="3822970879" ref="line-up"/>
+    <file name="u79661-4_2x.png" crc="4268188031" ref="line-up"/>
+    <file name="u79665-4.png" crc="4123814818" ref="line-up"/>
+    <file name="u79665-4_2x.png" crc="4034668019" ref="line-up"/>
+    <file name="018-crop-u79684.png" crc="4140972913" ref="line-up"/>
+    <file name="u79686-4.png" crc="4254289810" ref="line-up"/>
+    <file name="u79686-4_2x.png" crc="3897307811" ref="line-up"/>
+    <file name="u79690-4.png" crc="4069388721" ref="line-up"/>
+    <file name="u79690-4_2x.png" crc="370598154" ref="line-up"/>
+    <file name="11 - dj perdon.jpg" crc="3769676385" seo="true" ref="line-up"/>
+    <file name="u81051-4.png" crc="4254289810" ref="line-up"/>
+    <file name="u81051-4_2x.png" crc="3897307811" ref="line-up"/>
+    <file name="u81055-4.png" crc="3885029268" ref="line-up"/>
+    <file name="u81055-4_2x.png" crc="4268829234" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-el-hombre.jpg" crc="3916967093" seo="true" ref="line-up"/>
+    <file name="u102410-4.png" crc="4067212291" ref="line-up"/>
+    <file name="u102410-4_2x.png" crc="4164580705" ref="line-up"/>
+    <file name="u102414-4.png" crc="90382373" ref="line-up"/>
+    <file name="u102414-4_2x.png" crc="4052553141" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-latinoboy.jpg" crc="55586461" seo="true" ref="line-up"/>
+    <file name="u102442-4.png" crc="4067212291" ref="line-up"/>
+    <file name="u102442-4_2x.png" crc="4164580705" ref="line-up"/>
+    <file name="u102446-4.png" crc="3882784055" ref="line-up"/>
+    <file name="u102446-4_2x.png" crc="3873827337" ref="line-up"/>
+    <file name="fb_img_1459071340670.jpg" crc="4189816951" seo="true" ref="line-up"/>
+    <file name="u94661-4.png" crc="4254289810" ref="line-up"/>
+    <file name="u94661-4_2x.png" crc="3897307811" ref="line-up"/>
+    <file name="u94665-4.png" crc="490075607" ref="line-up"/>
+    <file name="u94665-4_2x.png" crc="193940865" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u95494.png" crc="3778492008" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u95494_2x.png" crc="164176056" ref="line-up"/>
+    <file name="u95496-4.png" crc="408583632" ref="line-up"/>
+    <file name="u95496-4_2x.png" crc="4132557764" ref="line-up"/>
+    <file name="u95500-4.png" crc="3227469" ref="line-up"/>
+    <file name="u95500-4_2x.png" crc="4059300137" ref="line-up"/>
+    <file name="chamalo and lydia-crop-u85496.png" crc="4212610500" ref="line-up"/>
+    <file name="u85498-4.png" crc="4076322715" ref="line-up"/>
+    <file name="u85498-4_2x.png" crc="4055316652" ref="line-up"/>
+    <file name="u85502-4.png" crc="4199069581" ref="line-up"/>
+    <file name="u85502-4_2x.png" crc="130117897" ref="line-up"/>
+    <file name="georges - laura-crop-u86786.png" crc="4240034682" ref="line-up"/>
+    <file name="u86788-4.png" crc="77780677" ref="line-up"/>
+    <file name="u86788-4_2x.png" crc="3765693736" ref="line-up"/>
+    <file name="u86792-4.png" crc="4084761228" ref="line-up"/>
+    <file name="u86792-4_2x.png" crc="3913971882" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-isabelle-and-felicien-crop-u102548.png" crc="237978645" ref="line-up"/>
+    <file name="u102550-4.png" crc="74515150" ref="line-up"/>
+    <file name="u102550-4_2x.png" crc="3994317333" ref="line-up"/>
+    <file name="u102554-4.png" crc="3938265362" ref="line-up"/>
+    <file name="u102554-4_2x.png" crc="4205636652" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-artists-killian.jpg" crc="3873336933" seo="true" ref="line-up"/>
+    <file name="u111162-4.png" crc="81916667" ref="line-up"/>
+    <file name="u111162-4_2x.png" crc="468127973" ref="line-up"/>
+    <file name="u111166-4.png" crc="100298413" ref="line-up"/>
+    <file name="u111166-4_2x.png" crc="65213736" ref="line-up"/>
+    <file name="12 - dj chad.jpg" crc="182929751" seo="true" ref="line-up"/>
+    <file name="u82972-4.png" crc="81916667" ref="line-up"/>
+    <file name="u82972-4_2x.png" crc="468127973" ref="line-up"/>
+    <file name="u82976-4.png" crc="3949196255" ref="line-up"/>
+    <file name="u82976-4_2x.png" crc="385185480" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u83012.png" crc="4067229861" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u83012_2x.png" crc="3759743100" ref="line-up"/>
+    <file name="u83014-4.png" crc="81916667" ref="line-up"/>
+    <file name="u83014-4_2x.png" crc="468127973" ref="line-up"/>
+    <file name="u83018-4.png" crc="3991900924" ref="line-up"/>
+    <file name="u83018-4_2x.png" crc="231984174" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u95530.png" crc="285496266" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u95530_2x.png" crc="4217468651" ref="line-up"/>
+    <file name="u95532-4.png" crc="74515150" ref="line-up"/>
+    <file name="u95532-4_2x.png" crc="3994317333" ref="line-up"/>
+    <file name="u95536-4.png" crc="4084851485" ref="line-up"/>
+    <file name="u95536-4_2x.png" crc="3803159275" ref="line-up"/>
+    <file name="u74576-4.png" crc="511125928" ref="line-up"/>
+    <file name="u74576-4_2x.png" crc="3924454578" ref="line-up"/>
+    <file name="u74510-4.png" crc="4204801265" ref="line-up"/>
+    <file name="u74510-4_2x.png" crc="4138466167" ref="line-up"/>
+    <file name="u74519-4.png" crc="3916598063" ref="line-up"/>
+    <file name="u74519-4_2x.png" crc="178758090" ref="line-up"/>
+    <file name="paris-international-salsa-congress-banner-4688x67.jpg" crc="3978962167" seo="true" ref="line-up"/>
+    <file name="01 yamulee-crop-u747582.png" crc="299810663" ref="line-up"/>
+    <file name="02 eddie torres jr-crop-u751722.png" crc="320185942" ref="line-up"/>
+    <file name="03 tito - tamara-crop-u755892.png" crc="353749024" ref="line-up"/>
+    <file name="03 tito - tamara-crop-u75589_2x2.png" crc="110305450" ref="line-up"/>
+    <file name="05 karel flores-crop-u770032.png" crc="3897242791" ref="line-up"/>
+    <file name="05 karel flores-crop-u77003_2x2.png" crc="74806388" ref="line-up"/>
+    <file name="06 rodrigo - carla-crop-u773142.png" crc="355474381" ref="line-up"/>
+    <file name="06 rodrigo - carla-crop-u77314_2x2.png" crc="150662890" ref="line-up"/>
+    <file name="07 euphoria-crop-u773912.png" crc="3976348074" ref="line-up"/>
+    <file name="07 euphoria-crop-u77391_2x2.png" crc="3863286845" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u775182.png" crc="478221990" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u77518_2x2.png" crc="436015898" ref="line-up"/>
+    <file name="09 mouaze - ella-crop-u778752.png" crc="4035549036" ref="line-up"/>
+    <file name="09 mouaze - ella-crop-u77875_2x2.png" crc="4175650390" ref="line-up"/>
+    <file name="photo 08-11-2016 19 14 10-crop-u830762.png" crc="507755315" ref="line-up"/>
+    <file name="photo 08-11-2016 19 14 10-crop-u83076_2x2.png" crc="3921621131" ref="line-up"/>
+    <file name="10 leon rose-crop-u780542.png" crc="304867722" ref="line-up"/>
+    <file name="11 shelina-s team-crop-u781582.png" crc="4137288032" ref="line-up"/>
+    <file name="11 shelina-s team-crop-u78158_2x2.png" crc="263240864" ref="line-up"/>
+    <file name="fanny-crop-u881132.png" crc="3915509640" ref="line-up"/>
+    <file name="fanny-crop-u88113_2x2.png" crc="50272960" ref="line-up"/>
+    <file name="12 talal - edyta-crop-u782402.png" crc="389805981" ref="line-up"/>
+    <file name="12 talal - edyta-crop-u78240_2x2.png" crc="3946289970" ref="line-up"/>
+    <file name="13 aura group-crop-u786552.png" crc="3788595678" ref="line-up"/>
+    <file name="13 aura group-crop-u78655_2x2.png" crc="3946999802" ref="line-up"/>
+    <file name="14 palamambo-crop-u787202.png" crc="3763369349" ref="line-up"/>
+    <file name="14 palamambo-crop-u78720_2x2.png" crc="4162838104" ref="line-up"/>
+    <file name="15 aude m-crop-u787852.png" crc="4254998478" ref="line-up"/>
+    <file name="15 aude m-crop-u78785_2x2.png" crc="4062685887" ref="line-up"/>
+    <file name="14877063_1371808736192432_1050620027_n-crop-u906052.png" crc="4021439572" ref="line-up"/>
+    <file name="428-crop-u906382.png" crc="3922677797" ref="line-up"/>
+    <file name="428-crop-u90638_2x2.png" crc="3777915980" ref="line-up"/>
+    <file name="img_6349jpg-crop-u1783472.png" crc="429630486" ref="line-up"/>
+    <file name="img_6349jpg-crop-u178347_2x2.png" crc="4191640252" ref="line-up"/>
+    <file name="291-crop-u1848722.png" crc="4183350039" ref="line-up"/>
+    <file name="291-crop-u184872_2x2.png" crc="192593168" ref="line-up"/>
+    <file name="1 - dj willy-crop-u802672.png" crc="497507134" ref="line-up"/>
+    <file name="1 - dj willy-crop-u80267_2x2.png" crc="13231248" ref="line-up"/>
+    <file name="2 - o-sullivans gabriel-crop-u802902.png" crc="173239333" ref="line-up"/>
+    <file name="2 - o-sullivans gabriel-crop-u80290_2x2.png" crc="4084771056" ref="line-up"/>
+    <file name="3 - djvip®-crop-u803132.png" crc="4091251256" ref="line-up"/>
+    <file name="4 - noel dj mulato2-crop-u803362.png" crc="4154625131" ref="line-up"/>
+    <file name="5 - djloic-crop-u803592.png" crc="206055633" ref="line-up"/>
+    <file name="6 - cyrine1-crop-u803822.png" crc="388022792" ref="line-up"/>
+    <file name="7 - dj sergio-crop-u804052.png" crc="3820915817" ref="line-up"/>
+    <file name="7 - dj sergio-crop-u80405_2x2.png" crc="4103689170" ref="line-up"/>
+    <file name="8 - phil-crop-u804282.png" crc="4105724883" ref="line-up"/>
+    <file name="9 - madj-crop-u804512.png" crc="426765869" ref="line-up"/>
+    <file name="10 - dj 69-crop-u804742.png" crc="3910584959" ref="line-up"/>
+    <file name="10 - dj 69-crop-u80474_2x2.png" crc="126792853" ref="line-up"/>
+    <file name="dsc01941-crop-u1955012.png" crc="12445118" ref="line-up"/>
+    <file name="dsc01941-crop-u195501_2x2.png" crc="259037467" ref="line-up"/>
+    <file name="16 c-alberto valdes-crop-u788502.png" crc="3827635974" ref="line-up"/>
+    <file name="16 c-alberto valdes-crop-u78850_2x2.png" crc="3905778761" ref="line-up"/>
+    <file name="18 c-pedrito - guisy-crop-u794482.png" crc="4131719739" ref="line-up"/>
+    <file name="18 c-pedrito - guisy-crop-u79448_2x2.png" crc="4064935455" ref="line-up"/>
+    <file name="20 b-sergio - bianca-crop-u795462.png" crc="69920785" ref="line-up"/>
+    <file name="20 b-sergio - bianca-crop-u79546_2x2.png" crc="3774313157" ref="line-up"/>
+    <file name="21 b-alex - desiree-crop-u795692.png" crc="4060463465" ref="line-up"/>
+    <file name="21 b-alex - desiree-crop-u79569_2x2.png" crc="11453133" ref="line-up"/>
+    <file name="018-crop-u795992.png" crc="109526365" ref="line-up"/>
+    <file name="018-crop-u79599_2x2.png" crc="230571076" ref="line-up"/>
+    <file name="11 - dj perdon-crop-u807672.png" crc="4069330263" ref="line-up"/>
+    <file name="11 - dj perdon-crop-u80767_2x2.png" crc="4041766655" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-el-hombre-crop-u1023422.png" crc="3938506731" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-latinoboy-crop-u1023722.png" crc="3805193929" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-latinoboy-crop-u102372_2x2.png" crc="112283575" ref="line-up"/>
+    <file name="fb_img_1459071340670-crop-u907072.png" crc="245277341" ref="line-up"/>
+    <file name="fb_img_1459071340670-crop-u90707_2x2.png" crc="89983513" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u906612.png" crc="103050913" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u90661_2x2.png" crc="105192528" ref="line-up"/>
+    <file name="chamalo and lydia-crop-u830962.png" crc="4216426224" ref="line-up"/>
+    <file name="chamalo and lydia-crop-u83096_2x2.png" crc="201321900" ref="line-up"/>
+    <file name="georges - laura-crop-u808362.png" crc="30524266" ref="line-up"/>
+    <file name="georges - laura-crop-u80836_2x2.png" crc="4236429306" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-isabelle-and-felicien-crop-u1025222.png" crc="420884103" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-isabelle-and-felicien-crop-u102522_2x2.png" crc="153919272" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-artists-killian-crop-u1111502.png" crc="4244035927" ref="line-up"/>
+    <file name="12 - dj chad-crop-u807902.png" crc="258763171" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u808132.png" crc="79025507" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u80813_2x2.png" crc="4244653098" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u906842.png" crc="6475198" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u90684_2x2.png" crc="141934678" ref="line-up"/>
+    <file name="01 yamulee-crop-u745542.png" crc="286120920" ref="line-up"/>
+    <file name="01 yamulee-crop-u74554_2x2.png" crc="4276356031" ref="line-up"/>
+    <file name="u74556-42.png" crc="319857263" ref="line-up"/>
+    <file name="u74556-4_2x2.png" crc="4048111277" ref="line-up"/>
+    <file name="u74552-42.png" crc="4015764637" ref="line-up"/>
+    <file name="u74552-4_2x2.png" crc="3977866073" ref="line-up"/>
+    <file name="02 eddie torres jr-crop-u751402.png" crc="19978677" ref="line-up"/>
+    <file name="u75142-42.png" crc="3827151880" ref="line-up"/>
+    <file name="u75142-4_2x2.png" crc="3763526004" ref="line-up"/>
+    <file name="u75146-42.png" crc="4113571645" ref="line-up"/>
+    <file name="u75146-4_2x2.png" crc="523617477" ref="line-up"/>
+    <file name="03 tito - tamara-crop-u755962.png" crc="147755865" ref="line-up"/>
+    <file name="u75598-42.png" crc="3774148778" ref="line-up"/>
+    <file name="u75598-4_2x2.png" crc="4170260900" ref="line-up"/>
+    <file name="u75602-42.png" crc="471888048" ref="line-up"/>
+    <file name="u75602-4_2x2.png" crc="4008596086" ref="line-up"/>
+    <file name="05 karel flores-crop-u770172.png" crc="121469169" ref="line-up"/>
+    <file name="05 karel flores-crop-u77017_2x2.png" crc="150712061" ref="line-up"/>
+    <file name="u77019-42.png" crc="487849735" ref="line-up"/>
+    <file name="u77019-4_2x2.png" crc="406989767" ref="line-up"/>
+    <file name="u77023-42.png" crc="3922880785" ref="line-up"/>
+    <file name="u77023-4_2x2.png" crc="4267722817" ref="line-up"/>
+    <file name="06 rodrigo - carla-crop-u77331.png" crc="49289299" ref="line-up"/>
+    <file name="u77333-42.png" crc="4048485928" ref="line-up"/>
+    <file name="u77333-4_2x2.png" crc="458593176" ref="line-up"/>
+    <file name="u77337-42.png" crc="329286398" ref="line-up"/>
+    <file name="u77337-4_2x2.png" crc="4194811650" ref="line-up"/>
+    <file name="07 euphoria-crop-u774012.png" crc="379056943" ref="line-up"/>
+    <file name="07 euphoria-crop-u77401_2x2.png" crc="4244692392" ref="line-up"/>
+    <file name="u77403-42.png" crc="137240036" ref="line-up"/>
+    <file name="u77403-4_2x2.png" crc="471609320" ref="line-up"/>
+    <file name="u77407-42.png" crc="438288323" ref="line-up"/>
+    <file name="u77407-4_2x2.png" crc="4011647956" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u775282.png" crc="15788305" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u77528_2x2.png" crc="4292042370" ref="line-up"/>
+    <file name="u77530-42.png" crc="466179122" ref="line-up"/>
+    <file name="u77530-4_2x2.png" crc="131600185" ref="line-up"/>
+    <file name="u77534-42.png" crc="200173296" ref="line-up"/>
+    <file name="u77534-4_2x2.png" crc="4234515425" ref="line-up"/>
+    <file name="09 mouaze - ella769x488.jpg" crc="40889405" seo="true" ref="line-up"/>
+    <file name="u77912-42.png" crc="524565686" ref="line-up"/>
+    <file name="u77912-4_2x2.png" crc="4171848945" ref="line-up"/>
+    <file name="u77916-42.png" crc="133194997" ref="line-up"/>
+    <file name="u77916-4_2x2.png" crc="209048427" ref="line-up"/>
+    <file name="photo 08-11-2016 19 14 10769x512.jpg" crc="4241317261" seo="true" ref="line-up"/>
+    <file name="u77994-42.png" crc="30899338" ref="line-up"/>
+    <file name="u77994-4_2x2.png" crc="4048324816" ref="line-up"/>
+    <file name="u77998-42.png" crc="247573267" ref="line-up"/>
+    <file name="u77998-4_2x2.png" crc="4052219401" ref="line-up"/>
+    <file name="10 leon rose-crop-u780712.png" crc="177689426" ref="line-up"/>
+    <file name="10 leon rose-crop-u78071_2x2.png" crc="3919400417" ref="line-up"/>
+    <file name="u78073-42.png" crc="3831629272" ref="line-up"/>
+    <file name="u78073-4_2x2.png" crc="3969113735" ref="line-up"/>
+    <file name="u78077-42.png" crc="3975745488" ref="line-up"/>
+    <file name="u78077-4_2x2.png" crc="503973657" ref="line-up"/>
+    <file name="11 shelina-s team-crop-u781682.png" crc="3799263084" ref="line-up"/>
+    <file name="u78170-42.png" crc="190692014" ref="line-up"/>
+    <file name="u78170-4_2x2.png" crc="226769141" ref="line-up"/>
+    <file name="u78174-42.png" crc="3817068760" ref="line-up"/>
+    <file name="u78174-4_2x2.png" crc="4164755828" ref="line-up"/>
+    <file name="fanny769x478.jpg" crc="139909249" seo="true" ref="line-up"/>
+    <file name="u88138-42.png" crc="3817609905" ref="line-up"/>
+    <file name="u88138-4_2x2.png" crc="376011729" ref="line-up"/>
+    <file name="u88139-42.png" crc="60728306" ref="line-up"/>
+    <file name="u88139-4_2x2.png" crc="227975244" ref="line-up"/>
+    <file name="12 talal - edyta769x462.jpg" crc="4236874298" seo="true" ref="line-up"/>
+    <file name="12 talal - edyta769x462_2x.jpg" crc="3891350907" seo="true" ref="line-up"/>
+    <file name="u78255-42.png" crc="3858041488" ref="line-up"/>
+    <file name="u78255-4_2x2.png" crc="90686705" ref="line-up"/>
+    <file name="u78259-42.png" crc="4109628337" ref="line-up"/>
+    <file name="u78259-4_2x2.png" crc="133961638" ref="line-up"/>
+    <file name="13 aura group-crop-u786652.png" crc="158489391" ref="line-up"/>
+    <file name="13 aura group-crop-u78665_2x2.png" crc="3835681283" ref="line-up"/>
+    <file name="u78667-42.png" crc="47679480" ref="line-up"/>
+    <file name="u78667-4_2x2.png" crc="57771588" ref="line-up"/>
+    <file name="u78671-42.png" crc="391202684" ref="line-up"/>
+    <file name="u78671-4_2x2.png" crc="157329102" ref="line-up"/>
+    <file name="14 palamambo-crop-u787302.png" crc="3988375271" ref="line-up"/>
+    <file name="14 palamambo-crop-u78730_2x2.png" crc="4106446535" ref="line-up"/>
+    <file name="u78732-42.png" crc="3994341511" ref="line-up"/>
+    <file name="u78732-4_2x2.png" crc="526608267" ref="line-up"/>
+    <file name="u78736-42.png" crc="136974458" ref="line-up"/>
+    <file name="u78736-4_2x2.png" crc="307517059" ref="line-up"/>
+    <file name="15 aude m769x493.jpg" crc="3983927120" seo="true" ref="line-up"/>
+    <file name="15 aude m769x493_2x.jpg" crc="4007255771" seo="true" ref="line-up"/>
+    <file name="u78797-42.png" crc="3994341511" ref="line-up"/>
+    <file name="u78797-4_2x2.png" crc="526608267" ref="line-up"/>
+    <file name="u78801-42.png" crc="3861708143" ref="line-up"/>
+    <file name="u78801-4_2x2.png" crc="3840910005" ref="line-up"/>
+    <file name="u94712-42.png" crc="30899338" ref="line-up"/>
+    <file name="u94712-4_2x2.png" crc="4048324816" ref="line-up"/>
+    <file name="u94716-42.png" crc="4077363175" ref="line-up"/>
+    <file name="u94716-4_2x2.png" crc="348273748" ref="line-up"/>
+    <file name="428828x461.jpg" crc="23702401" seo="true" ref="line-up"/>
+    <file name="428828x461_2x.jpg" crc="45908795" seo="true" ref="line-up"/>
+    <file name="u94741-42.png" crc="4197034841" ref="line-up"/>
+    <file name="u94741-4_2x2.png" crc="3788791852" ref="line-up"/>
+    <file name="u94745-42.png" crc="404162477" ref="line-up"/>
+    <file name="u94745-4_2x2.png" crc="4162239184" ref="line-up"/>
+    <file name="u178377-42.png" crc="3805536552" ref="line-up"/>
+    <file name="u178377-4_2x2.png" crc="376306158" ref="line-up"/>
+    <file name="u178381-42.png" crc="222049367" ref="line-up"/>
+    <file name="u178381-4_2x2.png" crc="4147053526" ref="line-up"/>
+    <file name="291769x511.jpg" crc="3818444744" seo="true" ref="line-up"/>
+    <file name="291769x511_2x.jpg" crc="3805959883" seo="true" ref="line-up"/>
+    <file name="u184940-42.png" crc="4149914128" ref="line-up"/>
+    <file name="u184940-4_2x2.png" crc="237332851" ref="line-up"/>
+    <file name="u184944-42.png" crc="4171697991" ref="line-up"/>
+    <file name="u184944-4_2x2.png" crc="517429950" ref="line-up"/>
+    <file name="1 - dj willy769x505.jpg" crc="3889733426" seo="true" ref="line-up"/>
+    <file name="u80486-42.png" crc="256584962" ref="line-up"/>
+    <file name="u80486-4_2x2.png" crc="3850611986" ref="line-up"/>
+    <file name="u80490-42.png" crc="446716735" ref="line-up"/>
+    <file name="u80490-4_2x2.png" crc="47313033" ref="line-up"/>
+    <file name="2 - o-sullivans gabriel-crop-u805092.png" crc="3858707059" ref="line-up"/>
+    <file name="u80511-42.png" crc="186896815" ref="line-up"/>
+    <file name="u80511-4_2x2.png" crc="197404912" ref="line-up"/>
+    <file name="u80515-42.png" crc="28049342" ref="line-up"/>
+    <file name="u80515-4_2x2.png" crc="393768343" ref="line-up"/>
+    <file name="u80536-42.png" crc="4022787981" ref="line-up"/>
+    <file name="u80536-4_2x2.png" crc="264519791" ref="line-up"/>
+    <file name="u80540-42.png" crc="4061238350" ref="line-up"/>
+    <file name="u80540-4_2x2.png" crc="3952734441" ref="line-up"/>
+    <file name="4 - noel dj mulato2-crop-u80559.png" crc="3866824710" ref="line-up"/>
+    <file name="u80561-42.png" crc="186896815" ref="line-up"/>
+    <file name="u80561-4_2x2.png" crc="197404912" ref="line-up"/>
+    <file name="u80565-42.png" crc="3934093368" ref="line-up"/>
+    <file name="u80565-4_2x2.png" crc="4055695000" ref="line-up"/>
+    <file name="5 - djloic-crop-u80584.png" crc="462470223" ref="line-up"/>
+    <file name="u80586-42.png" crc="4022787981" ref="line-up"/>
+    <file name="u80586-4_2x2.png" crc="4069237470" ref="line-up"/>
+    <file name="u80590-42.png" crc="4053074960" ref="line-up"/>
+    <file name="u80590-4_2x2.png" crc="73226799" ref="line-up"/>
+    <file name="6 - cyrine1-crop-u80609.png" crc="3991626813" ref="line-up"/>
+    <file name="u80611-42.png" crc="4022787981" ref="line-up"/>
+    <file name="u80611-4_2x2.png" crc="4069237470" ref="line-up"/>
+    <file name="u80615-42.png" crc="3854200718" ref="line-up"/>
+    <file name="u80615-4_2x2.png" crc="466338753" ref="line-up"/>
+    <file name="7 - dj sergio-crop-u80634.png" crc="4023840975" ref="line-up"/>
+    <file name="u80636-42.png" crc="186896815" ref="line-up"/>
+    <file name="u80636-4_2x2.png" crc="197404912" ref="line-up"/>
+    <file name="u80640-42.png" crc="3775156647" ref="line-up"/>
+    <file name="u80640-4_2x2.png" crc="3988165352" ref="line-up"/>
+    <file name="8 - phil-crop-u80659.png" crc="3878828805" ref="line-up"/>
+    <file name="u80661-42.png" crc="3875327830" ref="line-up"/>
+    <file name="u80661-4_2x2.png" crc="396088493" ref="line-up"/>
+    <file name="u80665-42.png" crc="4046349406" ref="line-up"/>
+    <file name="u80665-4_2x2.png" crc="387156349" ref="line-up"/>
+    <file name="9 - madj-crop-u80684.png" crc="3846568082" ref="line-up"/>
+    <file name="u80686-42.png" crc="186896815" ref="line-up"/>
+    <file name="u80686-4_2x2.png" crc="197404912" ref="line-up"/>
+    <file name="u80690-42.png" crc="363239832" ref="line-up"/>
+    <file name="u80690-4_2x2.png" crc="169964543" ref="line-up"/>
+    <file name="10 - dj 69-crop-u80709.png" crc="3832334991" ref="line-up"/>
+    <file name="u80711-42.png" crc="4060479179" ref="line-up"/>
+    <file name="u80711-4_2x2.png" crc="3819541801" ref="line-up"/>
+    <file name="u80715-42.png" crc="75968730" ref="line-up"/>
+    <file name="u80715-4_2x2.png" crc="179387823" ref="line-up"/>
+    <file name="dsc01941-crop-u1955272.png" crc="4168243384" ref="line-up"/>
+    <file name="dsc01941-crop-u195527_2x2.png" crc="258405451" ref="line-up"/>
+    <file name="u195529-42.png" crc="4091826842" ref="line-up"/>
+    <file name="u195529-4_2x2.png" crc="3916378503" ref="line-up"/>
+    <file name="u195533-42.png" crc="49332852" ref="line-up"/>
+    <file name="u195533-4_2x2.png" crc="3874219273" ref="line-up"/>
+    <file name="16 c-alberto valdes769x475.jpg" crc="4226739233" seo="true" ref="line-up"/>
+    <file name="16 c-alberto valdes769x475_2x.jpg" crc="156610508" seo="true" ref="line-up"/>
+    <file name="u78862-42.png" crc="3962009723" ref="line-up"/>
+    <file name="u78862-4_2x2.png" crc="4290163426" ref="line-up"/>
+    <file name="u78866-42.png" crc="3816130795" ref="line-up"/>
+    <file name="u78866-4_2x2.png" crc="3889872214" ref="line-up"/>
+    <file name="18 c-pedrito - guisy769x511.jpg" crc="3990451595" seo="true" ref="line-up"/>
+    <file name="18 c-pedrito - guisy769x511_2x.jpg" crc="4248160181" seo="true" ref="line-up"/>
+    <file name="u79470-42.png" crc="4093098966" ref="line-up"/>
+    <file name="u79470-4_2x2.png" crc="393412018" ref="line-up"/>
+    <file name="u79474-42.png" crc="4222669645" ref="line-up"/>
+    <file name="u79474-4_2x2.png" crc="155525447" ref="line-up"/>
+    <file name="19 c-osbanis - anneta-crop-u79609.png" crc="13108926" ref="line-up"/>
+    <file name="u79611-42.png" crc="4169690734" ref="line-up"/>
+    <file name="u79611-4_2x2.png" crc="41501793" ref="line-up"/>
+    <file name="u79615-42.png" crc="4027915034" ref="line-up"/>
+    <file name="u79615-4_2x2.png" crc="262277488" ref="line-up"/>
+    <file name="20 b-sergio - bianca769x513.jpg" crc="3986859545" seo="true" ref="line-up"/>
+    <file name="u79636-42.png" crc="3836476970" ref="line-up"/>
+    <file name="u79636-4_2x2.png" crc="3909453727" ref="line-up"/>
+    <file name="u79640-42.png" crc="462769699" ref="line-up"/>
+    <file name="u79640-4_2x2.png" crc="4151552802" ref="line-up"/>
+    <file name="21 b-alex - desiree-crop-u796592.png" crc="3051656" ref="line-up"/>
+    <file name="u79661-42.png" crc="4178396686" ref="line-up"/>
+    <file name="u79661-4_2x2.png" crc="119667324" ref="line-up"/>
+    <file name="u79665-42.png" crc="4074265922" ref="line-up"/>
+    <file name="u79665-4_2x2.png" crc="153952219" ref="line-up"/>
+    <file name="018-crop-u796842.png" crc="4024436" ref="line-up"/>
+    <file name="u79686-42.png" crc="133829641" ref="line-up"/>
+    <file name="u79686-4_2x2.png" crc="27058410" ref="line-up"/>
+    <file name="u79690-42.png" crc="500907293" ref="line-up"/>
+    <file name="u79690-4_2x2.png" crc="131477790" ref="line-up"/>
+    <file name="11 - dj perdon-crop-u81049.png" crc="4007686840" ref="line-up"/>
+    <file name="u81051-42.png" crc="390601708" ref="line-up"/>
+    <file name="u81051-4_2x2.png" crc="4005536519" ref="line-up"/>
+    <file name="u81055-42.png" crc="3876029363" ref="line-up"/>
+    <file name="u81055-4_2x2.png" crc="4064757932" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-el-hombre-crop-u102408.png" crc="2346882" ref="line-up"/>
+    <file name="u102410-42.png" crc="3814269764" ref="line-up"/>
+    <file name="u102410-4_2x2.png" crc="113100166" ref="line-up"/>
+    <file name="u102414-42.png" crc="161774450" ref="line-up"/>
+    <file name="u102414-4_2x2.png" crc="4180087191" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-latinoboy769x513.jpg" crc="195206976" seo="true" ref="line-up"/>
+    <file name="u102442-42.png" crc="3895353579" ref="line-up"/>
+    <file name="u102442-4_2x2.png" crc="4159228732" ref="line-up"/>
+    <file name="u102446-42.png" crc="3858560195" ref="line-up"/>
+    <file name="u102446-4_2x2.png" crc="210129344" ref="line-up"/>
+    <file name="u94661-42.png" crc="3985527000" ref="line-up"/>
+    <file name="u94661-4_2x2.png" crc="3886173115" ref="line-up"/>
+    <file name="u94665-42.png" crc="4196273939" ref="line-up"/>
+    <file name="u94665-4_2x2.png" crc="259528716" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u954942.png" crc="485523114" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u95494_2x2.png" crc="3926051671" ref="line-up"/>
+    <file name="u95496-42.png" crc="309641623" ref="line-up"/>
+    <file name="u95496-4_2x2.png" crc="312691802" ref="line-up"/>
+    <file name="u95500-42.png" crc="4270438018" ref="line-up"/>
+    <file name="u95500-4_2x2.png" crc="251655040" ref="line-up"/>
+    <file name="chamalo and lydia-crop-u854962.png" crc="322737717" ref="line-up"/>
+    <file name="u85498-42.png" crc="173098766" ref="line-up"/>
+    <file name="u85498-4_2x2.png" crc="439450330" ref="line-up"/>
+    <file name="u85502-42.png" crc="193632992" ref="line-up"/>
+    <file name="u85502-4_2x2.png" crc="260323946" ref="line-up"/>
+    <file name="georges - laura-crop-u867862.png" crc="53338228" ref="line-up"/>
+    <file name="u86788-42.png" crc="24575350" ref="line-up"/>
+    <file name="u86788-4_2x2.png" crc="4124998983" ref="line-up"/>
+    <file name="u86792-42.png" crc="59105950" ref="line-up"/>
+    <file name="u86792-4_2x2.png" crc="3763254507" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-isabelle-and-felicien-crop-u1025482.png" crc="4116212008" ref="line-up"/>
+    <file name="u102550-42.png" crc="3840966642" ref="line-up"/>
+    <file name="u102550-4_2x2.png" crc="454366299" ref="line-up"/>
+    <file name="u102554-42.png" crc="93944591" ref="line-up"/>
+    <file name="u102554-4_2x2.png" crc="96511197" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-artists-killian-crop-u111160.png" crc="4175722808" ref="line-up"/>
+    <file name="u111162-42.png" crc="74481032" ref="line-up"/>
+    <file name="u111162-4_2x2.png" crc="4019793883" ref="line-up"/>
+    <file name="u111166-42.png" crc="247412089" ref="line-up"/>
+    <file name="u111166-4_2x2.png" crc="3906037065" ref="line-up"/>
+    <file name="12 - dj chad-crop-u82970.png" crc="529153001" ref="line-up"/>
+    <file name="u82972-42.png" crc="192037827" ref="line-up"/>
+    <file name="u82972-4_2x2.png" crc="254565465" ref="line-up"/>
+    <file name="u82976-42.png" crc="4275387713" ref="line-up"/>
+    <file name="u82976-4_2x2.png" crc="4263853334" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u830122.png" crc="200775208" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u83012_2x2.png" crc="4169834859" ref="line-up"/>
+    <file name="u83014-42.png" crc="192037827" ref="line-up"/>
+    <file name="u83014-4_2x2.png" crc="3823448314" ref="line-up"/>
+    <file name="u83018-42.png" crc="512530218" ref="line-up"/>
+    <file name="u83018-4_2x2.png" crc="247038624" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u955302.png" crc="3792275381" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u95530_2x2.png" crc="40840964" ref="line-up"/>
+    <file name="u95532-42.png" crc="3906996587" ref="line-up"/>
+    <file name="u95532-4_2x2.png" crc="180338302" ref="line-up"/>
+    <file name="u95536-42.png" crc="260320110" ref="line-up"/>
+    <file name="u95536-4_2x2.png" crc="328956613" ref="line-up"/>
+    <file name="u74576-42.png" crc="511125928" ref="line-up"/>
+    <file name="u74576-4_2x2.png" crc="3924454578" ref="line-up"/>
+    <file name="u74510-42.png" crc="4204801265" ref="line-up"/>
+    <file name="u74510-4_2x2.png" crc="4138466167" ref="line-up"/>
+    <file name="u74519-42.png" crc="3916598063" ref="line-up"/>
+    <file name="u74519-4_2x2.png" crc="178758090" ref="line-up"/>
+    <file name="paris-international-salsa-congress-banner-4-crop-u101449.png" crc="4227218370" ref="line-up"/>
+    <file name="01 yamulee-crop-u747583.png" crc="88022709" ref="line-up"/>
+    <file name="02 eddie torres jr-crop-u751723.png" crc="104686347" ref="line-up"/>
+    <file name="03 tito - tamara-crop-u755893.png" crc="3892220405" ref="line-up"/>
+    <file name="03 tito - tamara-crop-u75589_2x3.png" crc="75075266" ref="line-up"/>
+    <file name="05 karel flores-crop-u770033.png" crc="3866977467" ref="line-up"/>
+    <file name="05 karel flores-crop-u77003_2x3.png" crc="4163959609" ref="line-up"/>
+    <file name="06 rodrigo - carla-crop-u773143.png" crc="4015818512" ref="line-up"/>
+    <file name="06 rodrigo - carla-crop-u77314_2x3.png" crc="526895862" ref="line-up"/>
+    <file name="07 euphoria-crop-u773913.png" crc="4273993512" ref="line-up"/>
+    <file name="07 euphoria-crop-u77391_2x3.png" crc="3852106917" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u775183.png" crc="217808799" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u77518_2x3.png" crc="3761089179" ref="line-up"/>
+    <file name="09 mouaze - ella-crop-u778753.png" crc="413868781" ref="line-up"/>
+    <file name="09 mouaze - ella-crop-u77875_2x3.png" crc="3993773997" ref="line-up"/>
+    <file name="photo 08-11-2016 19 14 10-crop-u830763.png" crc="200016780" ref="line-up"/>
+    <file name="photo 08-11-2016 19 14 10-crop-u83076_2x3.png" crc="372777288" ref="line-up"/>
+    <file name="10 leon rose-crop-u780543.png" crc="483980831" ref="line-up"/>
+    <file name="11 shelina-s team-crop-u781583.png" crc="4154350674" ref="line-up"/>
+    <file name="11 shelina-s team-crop-u78158_2x3.png" crc="3864569765" ref="line-up"/>
+    <file name="fanny-crop-u881133.png" crc="227543821" ref="line-up"/>
+    <file name="fanny-crop-u88113_2x3.png" crc="186326543" ref="line-up"/>
+    <file name="12 talal - edyta-crop-u782403.png" crc="3768416297" ref="line-up"/>
+    <file name="12 talal - edyta-crop-u78240_2x3.png" crc="393639894" ref="line-up"/>
+    <file name="13 aura group-crop-u786553.png" crc="159030375" ref="line-up"/>
+    <file name="13 aura group-crop-u78655_2x3.png" crc="103352787" ref="line-up"/>
+    <file name="14 palamambo-crop-u787203.png" crc="4109121801" ref="line-up"/>
+    <file name="14 palamambo-crop-u78720_2x3.png" crc="177294333" ref="line-up"/>
+    <file name="15 aude m-crop-u787853.png" crc="4098095813" ref="line-up"/>
+    <file name="15 aude m-crop-u78785_2x3.png" crc="3815617062" ref="line-up"/>
+    <file name="14877063_1371808736192432_1050620027_n-crop-u906053.png" crc="4282549955" ref="line-up"/>
+    <file name="428-crop-u906383.png" crc="76016023" ref="line-up"/>
+    <file name="428-crop-u90638_2x3.png" crc="454893584" ref="line-up"/>
+    <file name="img_6349jpg-crop-u1783473.png" crc="8951507" ref="line-up"/>
+    <file name="img_6349jpg-crop-u178347_2x3.png" crc="96309963" ref="line-up"/>
+    <file name="291-crop-u1848723.png" crc="3905306277" ref="line-up"/>
+    <file name="291-crop-u184872_2x3.png" crc="57579670" ref="line-up"/>
+    <file name="1 - dj willy-crop-u802673.png" crc="4102633587" ref="line-up"/>
+    <file name="1 - dj willy-crop-u80267_2x3.png" crc="116685241" ref="line-up"/>
+    <file name="2 - o-sullivans gabriel-crop-u802903.png" crc="410518659" ref="line-up"/>
+    <file name="2 - o-sullivans gabriel-crop-u80290_2x3.png" crc="3974753445" ref="line-up"/>
+    <file name="3 - djvip®-crop-u803133.png" crc="3315465" ref="line-up"/>
+    <file name="4 - noel dj mulato2-crop-u803363.png" crc="473216266" ref="line-up"/>
+    <file name="5 - djloic-crop-u803593.png" crc="4291872496" ref="line-up"/>
+    <file name="6 - cyrine1-crop-u803823.png" crc="530507264" ref="line-up"/>
+    <file name="7 - dj sergio-crop-u804053.png" crc="358262145" ref="line-up"/>
+    <file name="7 - dj sergio-crop-u80405_2x3.png" crc="3920753746" ref="line-up"/>
+    <file name="8 - phil-crop-u804283.png" crc="4042070079" ref="line-up"/>
+    <file name="9 - madj-crop-u804513.png" crc="22880491" ref="line-up"/>
+    <file name="10 - dj 69-crop-u804743.png" crc="3869866316" ref="line-up"/>
+    <file name="10 - dj 69-crop-u80474_2x3.png" crc="3884096052" ref="line-up"/>
+    <file name="dsc01941-crop-u1955013.png" crc="3916649097" ref="line-up"/>
+    <file name="dsc01941-crop-u195501_2x3.png" crc="129616538" ref="line-up"/>
+    <file name="16 c-alberto valdes-crop-u788503.png" crc="201092298" ref="line-up"/>
+    <file name="16 c-alberto valdes-crop-u78850_2x3.png" crc="121667135" ref="line-up"/>
+    <file name="18 c-pedrito - guisy-crop-u794483.png" crc="4203029115" ref="line-up"/>
+    <file name="18 c-pedrito - guisy-crop-u79448_2x3.png" crc="3832275642" ref="line-up"/>
+    <file name="19 c-osbanis - anneta200x200.jpg" crc="155669971" seo="true" ref="line-up"/>
+    <file name="19 c-osbanis - anneta200x200_2x.jpg" crc="3810968722" seo="true" ref="line-up"/>
+    <file name="20 b-sergio - bianca-crop-u795463.png" crc="3884775256" ref="line-up"/>
+    <file name="20 b-sergio - bianca-crop-u79546_2x3.png" crc="139159904" ref="line-up"/>
+    <file name="21 b-alex - desiree-crop-u795693.png" crc="206742841" ref="line-up"/>
+    <file name="21 b-alex - desiree-crop-u79569_2x3.png" crc="500560695" ref="line-up"/>
+    <file name="018-crop-u795993.png" crc="4224781809" ref="line-up"/>
+    <file name="018-crop-u79599_2x3.png" crc="4010650267" ref="line-up"/>
+    <file name="11 - dj perdon-crop-u807673.png" crc="4285616227" ref="line-up"/>
+    <file name="11 - dj perdon-crop-u80767_2x3.png" crc="502792844" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-el-hombre-crop-u1023423.png" crc="508765967" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-latinoboy-crop-u1023723.png" crc="4137557991" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-latinoboy-crop-u102372_2x3.png" crc="4109213414" ref="line-up"/>
+    <file name="fb_img_1459071340670-crop-u907073.png" crc="4261312733" ref="line-up"/>
+    <file name="fb_img_1459071340670-crop-u90707_2x3.png" crc="49682911" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u906613.png" crc="4214528401" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u90661_2x3.png" crc="53742198" ref="line-up"/>
+    <file name="chamalo and lydia-crop-u830963.png" crc="522042802" ref="line-up"/>
+    <file name="chamalo and lydia-crop-u83096_2x3.png" crc="4020696203" ref="line-up"/>
+    <file name="georges - laura-crop-u808363.png" crc="488387769" ref="line-up"/>
+    <file name="georges - laura-crop-u80836_2x3.png" crc="4203745904" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-isabelle-and-felicien-crop-u1025223.png" crc="3839543923" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-isabelle-and-felicien-crop-u102522_2x3.png" crc="169054047" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-artists-killian-crop-u1111503.png" crc="337203929" ref="line-up"/>
+    <file name="12 - dj chad-crop-u807903.png" crc="4221277223" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u808133.png" crc="3948087803" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u80813_2x3.png" crc="252009996" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u906843.png" crc="164925132" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u90684_2x3.png" crc="241405581" ref="line-up"/>
+    <file name="01 yamulee-crop-u745543.png" crc="338626895" ref="line-up"/>
+    <file name="01 yamulee-crop-u74554_2x3.png" crc="78139983" ref="line-up"/>
+    <file name="u74556-43.png" crc="3968845408" ref="line-up"/>
+    <file name="u74556-4_2x3.png" crc="3828091064" ref="line-up"/>
+    <file name="u74552-43.png" crc="3892031183" ref="line-up"/>
+    <file name="u74552-4_2x3.png" crc="4176955694" ref="line-up"/>
+    <file name="02 eddie torres jr-crop-u751403.png" crc="4013696275" ref="line-up"/>
+    <file name="u75142-43.png" crc="4187996200" ref="line-up"/>
+    <file name="u75142-4_2x3.png" crc="311153688" ref="line-up"/>
+    <file name="u75146-43.png" crc="378662037" ref="line-up"/>
+    <file name="u75146-4_2x3.png" crc="278534697" ref="line-up"/>
+    <file name="03 tito - tamara-crop-u755963.png" crc="4172732812" ref="line-up"/>
+    <file name="u75598-43.png" crc="3837431640" ref="line-up"/>
+    <file name="u75598-4_2x3.png" crc="70044198" ref="line-up"/>
+    <file name="u75602-43.png" crc="339353920" ref="line-up"/>
+    <file name="u75602-4_2x3.png" crc="4294313427" ref="line-up"/>
+    <file name="05 karel flores-crop-u770173.png" crc="4078694063" ref="line-up"/>
+    <file name="05 karel flores-crop-u77017_2x3.png" crc="3856076007" ref="line-up"/>
+    <file name="u77019-43.png" crc="339487304" ref="line-up"/>
+    <file name="u77019-4_2x3.png" crc="3950694094" ref="line-up"/>
+    <file name="u77023-43.png" crc="3971713411" ref="line-up"/>
+    <file name="u77023-4_2x3.png" crc="49778710" ref="line-up"/>
+    <file name="06 rodrigo - carla-crop-u773312.png" crc="4045223359" ref="line-up"/>
+    <file name="u77333-43.png" crc="3982419349" ref="line-up"/>
+    <file name="u77333-4_2x3.png" crc="184691277" ref="line-up"/>
+    <file name="u77337-43.png" crc="3784941550" ref="line-up"/>
+    <file name="u77337-4_2x3.png" crc="384161860" ref="line-up"/>
+    <file name="07 euphoria-crop-u774013.png" crc="489759537" ref="line-up"/>
+    <file name="07 euphoria-crop-u77401_2x3.png" crc="3771553961" ref="line-up"/>
+    <file name="u77403-43.png" crc="447953319" ref="line-up"/>
+    <file name="u77403-4_2x3.png" crc="338577491" ref="line-up"/>
+    <file name="u77407-43.png" crc="3759278358" ref="line-up"/>
+    <file name="u77407-4_2x3.png" crc="200708412" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u775283.png" crc="352502169" ref="line-up"/>
+    <file name="08 terry - cecile-crop-u77528_2x3.png" crc="3868337147" ref="line-up"/>
+    <file name="u77530-43.png" crc="3844869752" ref="line-up"/>
+    <file name="u77530-4_2x3.png" crc="428202204" ref="line-up"/>
+    <file name="u77534-43.png" crc="4228719288" ref="line-up"/>
+    <file name="u77534-4_2x3.png" crc="442694103" ref="line-up"/>
+    <file name="09 mouaze - ella-crop-u77910.png" crc="82109474" ref="line-up"/>
+    <file name="u77912-43.png" crc="4291101665" ref="line-up"/>
+    <file name="u77912-4_2x3.png" crc="3892515215" ref="line-up"/>
+    <file name="u77916-43.png" crc="4030236153" ref="line-up"/>
+    <file name="u77916-4_2x3.png" crc="3761816393" ref="line-up"/>
+    <file name="photo 08-11-2016 19 14 10-crop-u77992.png" crc="332814541" ref="line-up"/>
+    <file name="u77994-43.png" crc="303467400" ref="line-up"/>
+    <file name="u77994-4_2x3.png" crc="4040057294" ref="line-up"/>
+    <file name="u77998-43.png" crc="173266972" ref="line-up"/>
+    <file name="u77998-4_2x3.png" crc="3887909033" ref="line-up"/>
+    <file name="10 leon rose-crop-u780713.png" crc="234348054" ref="line-up"/>
+    <file name="10 leon rose-crop-u78071_2x3.png" crc="4046381588" ref="line-up"/>
+    <file name="u78073-43.png" crc="173294344" ref="line-up"/>
+    <file name="u78073-4_2x3.png" crc="96350509" ref="line-up"/>
+    <file name="u78077-43.png" crc="205007121" ref="line-up"/>
+    <file name="u78077-4_2x3.png" crc="4234971673" ref="line-up"/>
+    <file name="11 shelina-s team-crop-u781683.png" crc="93321710" ref="line-up"/>
+    <file name="u78170-43.png" crc="84279560" ref="line-up"/>
+    <file name="u78170-4_2x3.png" crc="521019236" ref="line-up"/>
+    <file name="u78174-43.png" crc="3777100836" ref="line-up"/>
+    <file name="u78174-4_2x3.png" crc="288024382" ref="line-up"/>
+    <file name="fanny-crop-u88136.png" crc="511471644" ref="line-up"/>
+    <file name="u88138-43.png" crc="4245125615" ref="line-up"/>
+    <file name="u88138-4_2x3.png" crc="3767247895" ref="line-up"/>
+    <file name="u88139-43.png" crc="4007002355" ref="line-up"/>
+    <file name="u88139-4_2x3.png" crc="83302376" ref="line-up"/>
+    <file name="12 talal - edyta-crop-u78253.png" crc="214665022" ref="line-up"/>
+    <file name="12 talal - edyta-crop-u78253_2x.png" crc="507106368" ref="line-up"/>
+    <file name="u78255-43.png" crc="3933935999" ref="line-up"/>
+    <file name="u78255-4_2x3.png" crc="156863869" ref="line-up"/>
+    <file name="u78259-43.png" crc="4086015656" ref="line-up"/>
+    <file name="u78259-4_2x3.png" crc="43851733" ref="line-up"/>
+    <file name="13 aura group-crop-u786653.png" crc="41296362" ref="line-up"/>
+    <file name="13 aura group-crop-u78665_2x3.png" crc="283928572" ref="line-up"/>
+    <file name="u78667-43.png" crc="3871730512" ref="line-up"/>
+    <file name="u78667-4_2x3.png" crc="50390610" ref="line-up"/>
+    <file name="u78671-43.png" crc="4015963146" ref="line-up"/>
+    <file name="u78671-4_2x3.png" crc="3893825042" ref="line-up"/>
+    <file name="14 palamambo-crop-u787303.png" crc="116640707" ref="line-up"/>
+    <file name="14 palamambo-crop-u78730_2x3.png" crc="34696472" ref="line-up"/>
+    <file name="u78732-43.png" crc="199675787" ref="line-up"/>
+    <file name="u78732-4_2x3.png" crc="4113250178" ref="line-up"/>
+    <file name="u78736-43.png" crc="4202120274" ref="line-up"/>
+    <file name="u78736-4_2x3.png" crc="3928154976" ref="line-up"/>
+    <file name="15 aude m-crop-u78795.png" crc="4291704539" ref="line-up"/>
+    <file name="15 aude m-crop-u78795_2x.png" crc="4170043269" ref="line-up"/>
+    <file name="u78797-43.png" crc="355986971" ref="line-up"/>
+    <file name="u78797-4_2x3.png" crc="3782580371" ref="line-up"/>
+    <file name="u78801-43.png" crc="94880709" ref="line-up"/>
+    <file name="u78801-4_2x3.png" crc="221981805" ref="line-up"/>
+    <file name="u94712-43.png" crc="3868452403" ref="line-up"/>
+    <file name="u94712-4_2x3.png" crc="3883273717" ref="line-up"/>
+    <file name="u94716-43.png" crc="3860790225" ref="line-up"/>
+    <file name="u94716-4_2x3.png" crc="481963804" ref="line-up"/>
+    <file name="428-crop-u94739.png" crc="4006144791" ref="line-up"/>
+    <file name="428-crop-u94739_2x.png" crc="42631599" ref="line-up"/>
+    <file name="u94741-43.png" crc="385556679" ref="line-up"/>
+    <file name="u94741-4_2x3.png" crc="4289803334" ref="line-up"/>
+    <file name="u94745-43.png" crc="166614720" ref="line-up"/>
+    <file name="u94745-4_2x3.png" crc="3883185383" ref="line-up"/>
+    <file name="u178377-43.png" crc="50929064" ref="line-up"/>
+    <file name="u178377-4_2x3.png" crc="130601991" ref="line-up"/>
+    <file name="u178381-43.png" crc="325204005" ref="line-up"/>
+    <file name="u178381-4_2x3.png" crc="4045384835" ref="line-up"/>
+    <file name="291641x426.jpg" crc="3975900054" seo="true" ref="line-up"/>
+    <file name="291641x426_2x.jpg" crc="368006960" seo="true" ref="line-up"/>
+    <file name="u184940-43.png" crc="4224850961" ref="line-up"/>
+    <file name="u184940-4_2x3.png" crc="73854436" ref="line-up"/>
+    <file name="u184944-43.png" crc="4250800487" ref="line-up"/>
+    <file name="u184944-4_2x3.png" crc="3977780723" ref="line-up"/>
+    <file name="1 - dj willy-crop-u80484.png" crc="402879526" ref="line-up"/>
+    <file name="u80486-43.png" crc="103603048" ref="line-up"/>
+    <file name="u80486-4_2x3.png" crc="4230907738" ref="line-up"/>
+    <file name="u80490-43.png" crc="4229554648" ref="line-up"/>
+    <file name="u80490-4_2x3.png" crc="3992099833" ref="line-up"/>
+    <file name="2 - o-sullivans gabriel-crop-u805093.png" crc="166544858" ref="line-up"/>
+    <file name="u80511-43.png" crc="154476892" ref="line-up"/>
+    <file name="u80511-4_2x3.png" crc="30965952" ref="line-up"/>
+    <file name="u80515-43.png" crc="4033422737" ref="line-up"/>
+    <file name="u80515-4_2x3.png" crc="175474788" ref="line-up"/>
+    <file name="u80536-43.png" crc="241457244" ref="line-up"/>
+    <file name="u80536-4_2x3.png" crc="4099897568" ref="line-up"/>
+    <file name="u80540-43.png" crc="4244515470" ref="line-up"/>
+    <file name="u80540-4_2x3.png" crc="274031973" ref="line-up"/>
+    <file name="4 - noel dj mulato2-crop-u805592.png" crc="4068596100" ref="line-up"/>
+    <file name="u80561-43.png" crc="3868452403" ref="line-up"/>
+    <file name="u80561-4_2x3.png" crc="3883273717" ref="line-up"/>
+    <file name="u80565-43.png" crc="36041507" ref="line-up"/>
+    <file name="u80565-4_2x3.png" crc="501948791" ref="line-up"/>
+    <file name="5 - djloic-crop-u805842.png" crc="285555203" ref="line-up"/>
+    <file name="u80586-43.png" crc="512128340" ref="line-up"/>
+    <file name="u80586-4_2x3.png" crc="429469759" ref="line-up"/>
+    <file name="u80590-43.png" crc="367459626" ref="line-up"/>
+    <file name="u80590-4_2x3.png" crc="10142859" ref="line-up"/>
+    <file name="6 - cyrine1-crop-u806092.png" crc="3990563396" ref="line-up"/>
+    <file name="u80611-43.png" crc="512128340" ref="line-up"/>
+    <file name="u80611-4_2x3.png" crc="4042907126" ref="line-up"/>
+    <file name="u80615-43.png" crc="4277245318" ref="line-up"/>
+    <file name="u80615-4_2x3.png" crc="99103143" ref="line-up"/>
+    <file name="7 - dj sergio-crop-u806342.png" crc="3859056158" ref="line-up"/>
+    <file name="u80636-43.png" crc="3977115260" ref="line-up"/>
+    <file name="u80636-4_2x3.png" crc="3858613167" ref="line-up"/>
+    <file name="u80640-43.png" crc="3795359784" ref="line-up"/>
+    <file name="u80640-4_2x3.png" crc="355046890" ref="line-up"/>
+    <file name="8 - phil-crop-u806592.png" crc="109466289" ref="line-up"/>
+    <file name="u80661-43.png" crc="248453216" ref="line-up"/>
+    <file name="u80661-4_2x3.png" crc="536259768" ref="line-up"/>
+    <file name="u80665-43.png" crc="75376372" ref="line-up"/>
+    <file name="u80665-4_2x3.png" crc="4201582459" ref="line-up"/>
+    <file name="9 - madj-crop-u806842.png" crc="8334134" ref="line-up"/>
+    <file name="u80686-43.png" crc="512128340" ref="line-up"/>
+    <file name="u80686-4_2x3.png" crc="429469759" ref="line-up"/>
+    <file name="u80690-43.png" crc="417423753" ref="line-up"/>
+    <file name="u80690-4_2x3.png" crc="112773931" ref="line-up"/>
+    <file name="10 - dj 69-crop-u807092.png" crc="3873207711" ref="line-up"/>
+    <file name="u80711-43.png" crc="4283068184" ref="line-up"/>
+    <file name="u80711-4_2x3.png" crc="4044167643" ref="line-up"/>
+    <file name="u80715-43.png" crc="167035498" ref="line-up"/>
+    <file name="u80715-4_2x3.png" crc="4114863567" ref="line-up"/>
+    <file name="dsc01941-crop-u1955273.png" crc="4120678301" ref="line-up"/>
+    <file name="dsc01941-crop-u195527_2x3.png" crc="413532404" ref="line-up"/>
+    <file name="u195529-43.png" crc="4169655087" ref="line-up"/>
+    <file name="u195529-4_2x3.png" crc="3915991064" ref="line-up"/>
+    <file name="u195533-43.png" crc="338302649" ref="line-up"/>
+    <file name="u195533-4_2x3.png" crc="54496184" ref="line-up"/>
+    <file name="16 c-alberto valdes-crop-u78860.png" crc="5563594" ref="line-up"/>
+    <file name="16 c-alberto valdes-crop-u78860_2x.png" crc="418868060" ref="line-up"/>
+    <file name="u78862-43.png" crc="3968637742" ref="line-up"/>
+    <file name="u78862-4_2x3.png" crc="4205280517" ref="line-up"/>
+    <file name="u78866-43.png" crc="3774995295" ref="line-up"/>
+    <file name="u78866-4_2x3.png" crc="3845843553" ref="line-up"/>
+    <file name="18 c-pedrito - guisy-crop-u79468.png" crc="506076049" ref="line-up"/>
+    <file name="18 c-pedrito - guisy-crop-u79468_2x.png" crc="353636696" ref="line-up"/>
+    <file name="u79470-43.png" crc="3902078246" ref="line-up"/>
+    <file name="u79470-4_2x3.png" crc="4036951551" ref="line-up"/>
+    <file name="u79474-43.png" crc="246241623" ref="line-up"/>
+    <file name="u79474-4_2x3.png" crc="3960564090" ref="line-up"/>
+    <file name="19 c-osbanis - anneta-crop-u796092.png" crc="149378685" ref="line-up"/>
+    <file name="u79611-43.png" crc="4197872321" ref="line-up"/>
+    <file name="u79611-4_2x3.png" crc="7194630" ref="line-up"/>
+    <file name="u79615-43.png" crc="122462338" ref="line-up"/>
+    <file name="u79615-4_2x3.png" crc="8897867" ref="line-up"/>
+    <file name="20 b-sergio - bianca-crop-u79634.png" crc="4240745571" ref="line-up"/>
+    <file name="u79636-43.png" crc="4136563103" ref="line-up"/>
+    <file name="u79636-4_2x3.png" crc="471600510" ref="line-up"/>
+    <file name="u79640-43.png" crc="501246752" ref="line-up"/>
+    <file name="u79640-4_2x3.png" crc="3979936627" ref="line-up"/>
+    <file name="21 b-alex - desiree-crop-u796593.png" crc="3967862021" ref="line-up"/>
+    <file name="u79661-43.png" crc="3971256889" ref="line-up"/>
+    <file name="u79661-4_2x3.png" crc="4094339546" ref="line-up"/>
+    <file name="u79665-43.png" crc="3944115069" ref="line-up"/>
+    <file name="u79665-4_2x3.png" crc="4033126896" ref="line-up"/>
+    <file name="018-crop-u796843.png" crc="154673493" ref="line-up"/>
+    <file name="u79686-43.png" crc="4035868920" ref="line-up"/>
+    <file name="u79686-4_2x3.png" crc="210634043" ref="line-up"/>
+    <file name="u79690-43.png" crc="488242217" ref="line-up"/>
+    <file name="u79690-4_2x3.png" crc="3773048706" ref="line-up"/>
+    <file name="11 - dj perdon-crop-u810492.png" crc="483477313" ref="line-up"/>
+    <file name="u81051-43.png" crc="94843285" ref="line-up"/>
+    <file name="u81051-4_2x3.png" crc="4157968695" ref="line-up"/>
+    <file name="u81055-43.png" crc="4187362434" ref="line-up"/>
+    <file name="u81055-4_2x3.png" crc="44822079" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-el-hombre-crop-u1024082.png" crc="387321841" ref="line-up"/>
+    <file name="u102410-43.png" crc="4196271464" ref="line-up"/>
+    <file name="u102410-4_2x3.png" crc="4146569582" ref="line-up"/>
+    <file name="u102414-43.png" crc="4059913851" ref="line-up"/>
+    <file name="u102414-4_2x3.png" crc="4108059268" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-dj-latinoboy-crop-u102440.png" crc="3850491812" ref="line-up"/>
+    <file name="u102442-43.png" crc="224147099" ref="line-up"/>
+    <file name="u102442-4_2x3.png" crc="3895700519" ref="line-up"/>
+    <file name="u102446-43.png" crc="19746703" ref="line-up"/>
+    <file name="u102446-4_2x3.png" crc="228968269" ref="line-up"/>
+    <file name="u94661-43.png" crc="3767300632" ref="line-up"/>
+    <file name="u94661-4_2x3.png" crc="3971849048" ref="line-up"/>
+    <file name="u94665-43.png" crc="281017634" ref="line-up"/>
+    <file name="u94665-4_2x3.png" crc="4086070302" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u954943.png" crc="4095321851" ref="line-up"/>
+    <file name="kwenda_20110826_0084-crop-u95494_2x3.png" crc="3867722386" ref="line-up"/>
+    <file name="u95496-43.png" crc="173478900" ref="line-up"/>
+    <file name="u95496-4_2x3.png" crc="4183480967" ref="line-up"/>
+    <file name="u95500-43.png" crc="3873019070" ref="line-up"/>
+    <file name="u95500-4_2x3.png" crc="3922757342" ref="line-up"/>
+    <file name="chamalo and lydia-crop-u854963.png" crc="3966681502" ref="line-up"/>
+    <file name="u85498-43.png" crc="3925289054" ref="line-up"/>
+    <file name="u85498-4_2x3.png" crc="3765042406" ref="line-up"/>
+    <file name="u85502-43.png" crc="4259052482" ref="line-up"/>
+    <file name="u85502-4_2x3.png" crc="4147927607" ref="line-up"/>
+    <file name="georges - laura-crop-u867863.png" crc="3856648465" ref="line-up"/>
+    <file name="u86788-43.png" crc="3983352593" ref="line-up"/>
+    <file name="u86788-4_2x3.png" crc="302717119" ref="line-up"/>
+    <file name="u86792-43.png" crc="4247538741" ref="line-up"/>
+    <file name="u86792-4_2x3.png" crc="266183080" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-isabelle-and-felicien-crop-u1025483.png" crc="4182628421" ref="line-up"/>
+    <file name="u102550-43.png" crc="383033584" ref="line-up"/>
+    <file name="u102550-4_2x3.png" crc="66206577" ref="line-up"/>
+    <file name="u102554-43.png" crc="4189951530" ref="line-up"/>
+    <file name="u102554-4_2x3.png" crc="167102568" ref="line-up"/>
+    <file name="paris-international-salsa-congress-2017-artists-killian-crop-u1111602.png" crc="12459680" ref="line-up"/>
+    <file name="u111162-43.png" crc="364482112" ref="line-up"/>
+    <file name="u111162-4_2x3.png" crc="3836592567" ref="line-up"/>
+    <file name="u111166-43.png" crc="528893119" ref="line-up"/>
+    <file name="u111166-4_2x3.png" crc="62279548" ref="line-up"/>
+    <file name="12 - dj chad-crop-u829702.png" crc="186310132" ref="line-up"/>
+    <file name="u82972-43.png" crc="4197029802" ref="line-up"/>
+    <file name="u82972-4_2x3.png" crc="4015000909" ref="line-up"/>
+    <file name="u82976-43.png" crc="3876000845" ref="line-up"/>
+    <file name="u82976-4_2x3.png" crc="63601445" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u830123.png" crc="4184735009" ref="line-up"/>
+    <file name="13 - dj hugo boss-crop-u83012_2x3.png" crc="307351427" ref="line-up"/>
+    <file name="u83014-43.png" crc="364482112" ref="line-up"/>
+    <file name="u83014-4_2x3.png" crc="3836592567" ref="line-up"/>
+    <file name="u83018-43.png" crc="515958620" ref="line-up"/>
+    <file name="u83018-4_2x3.png" crc="166888959" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u955303.png" crc="84330773" ref="line-up"/>
+    <file name="_alx4672 copie-crop-u95530_2x3.png" crc="4200949787" ref="line-up"/>
+    <file name="u95532-43.png" crc="100141925" ref="line-up"/>
+    <file name="u95532-4_2x3.png" crc="3783225318" ref="line-up"/>
+    <file name="u95536-43.png" crc="3830714152" ref="line-up"/>
+    <file name="u95536-4_2x3.png" crc="3992263372" ref="line-up"/>
+    <file name="u74576-43.png" crc="511125928" ref="line-up"/>
+    <file name="u74576-4_2x3.png" crc="3924454578" ref="line-up"/>
+    <file name="u74510-43.png" crc="4204801265" ref="line-up"/>
+    <file name="u74510-4_2x3.png" crc="4138466167" ref="line-up"/>
+    <file name="u74519-43.png" crc="3916598063" ref="line-up"/>
+    <file name="u74519-4_2x3.png" crc="178758090" ref="line-up"/>
+    <file name="paris-international-salsa-congress-preparties-osullivans-crop-u89402.png" crc="90178334" ref="program"/>
+    <file name="2017-paris-international-salsa-congress-preparty-balajo-crop-u89409.png" crc="24327837" ref="program"/>
+    <file name="paris-international-salsa-congress-preparties-vianey-crop-u89416.png" crc="3872657521" ref="program"/>
+    <file name="paris-international-salsa-congress-hyatt-regency-logo-minimap.png" crc="226192640" seo="true" ref="program:location"/>
+    <file name="paris-international-salsa-congress-minimap-studio-intensive-dance72x72.png" crc="193348155" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-minimap-osullivans72x72.png" crc="4070525421" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-minimap-boat-concorde-atlantique72x72.png" crc="150180639" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-banner-6.jpg" crc="305421930" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-banner-7.jpg" crc="3915136011" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-city-of-lights-u90777.png" crc="63397207" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-french-kiss-u103804.png" crc="261172860" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-flamingos-u104546.png" crc="4084125694" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-junior1-u194516.png" crc="3800329254" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-junior2-u194524.png" crc="3846408878" ref="program"/>
+    <file name="2017-paris-international-salsa-congress-preparty-balajo-crop-u894092.png" crc="34528181" ref="program"/>
+    <file name="paris-international-salsa-congress-banner-6697x68.jpg" crc="3828784577" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-preparties-osullivans-crop-u894022.png" crc="470655404" ref="program"/>
+    <file name="paris-international-salsa-congress-preparties-vianey-crop-u894162.png" crc="4040400814" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-city-of-lights-u907772.png" crc="126596666" ref="program"/>
+    <file name="paris-international-salsa-congress-banner-7714x69.jpg" crc="4059681101" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-flamingos-u1045462.png" crc="4255147522" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-french-kiss-u1038042.png" crc="168726178" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-junior1-u1945162.png" crc="335794773" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-junior2-u1945242.png" crc="440074577" ref="program"/>
+    <file name="2017-paris-international-salsa-congress-preparty-balajo-crop-u894093.png" crc="321065554" ref="program"/>
+    <file name="paris-international-salsa-congress-minimap-boat-concorde-atlantique.png" crc="3802940966" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-banner-6742x72.jpg" crc="339247751" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-preparties-osullivans-crop-u894023.png" crc="237182720" ref="program"/>
+    <file name="paris-international-salsa-congress-minimap-osullivans.png" crc="288220048" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-preparties-vianey-crop-u894163.png" crc="143794755" ref="program"/>
+    <file name="paris-international-salsa-congress-minimap-studio-intensive-dance.png" crc="3969660653" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-banner-7760x74.jpg" crc="4138041548" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-flamingos-u1045463.png" crc="194283719" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-city-of-lights-u907773.png" crc="56601176" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-french-kiss-u1038043.png" crc="446685592" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-junior1-u1945163.png" crc="3813800905" ref="program"/>
+    <file name="paris-international-salsa-congress-2017-illustration-junior2-u1945243.png" crc="3809968038" ref="program"/>
+    <file name="paris-international-salsa-congress-venue-03.jpg" crc="4019736003" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-venue-02.jpg" crc="3854746241" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-venue-01.jpg" crc="3974805945" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-venue-04.jpg" crc="4201902048" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-venue-06.jpg" crc="3863918382" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-banner-2.jpg" crc="4008105856" seo="true" ref="location:team"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm247x30.png" crc="447350773" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm247x30_2x.png" crc="4111956150" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm-toy-u189535.png" crc="4166978124" ref="location"/>
+    <file name="paris-international-salsa-congress-venue-06753x488.jpg" crc="3948276074" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-banner-2698x68.jpg" crc="63224490" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm-toy-u1895352.png" crc="4166978124" ref="location"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm.png" crc="233023026" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm_2x.png" crc="4111956150" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-2017-airfrance-klm-toy-u1895353.png" crc="4055369020" ref="location"/>
+    <file name="6af71df152927d0d1a71c792f44a7337a1757047-crop-u92735.png" crc="3797405337" ref="tickets"/>
+    <file name="paris-international-salsa-congress-boat-crop-u196590.png" crc="440322668" ref="tickets"/>
+    <file name="paris-international-salsa-congress-boat-crop-u196590_2x.png" crc="4118985228" ref="tickets"/>
+    <file name="pasted-svg-74x24.svg" crc="3771491329" seo="true" ref="tickets"/>
+    <file name="pasted svg 74x24_poster_.png" crc="4095384767" ref="tickets"/>
+    <file name="2017-paris-international-salsa-congress-graphic-couple-2-u93041.png" crc="3876765306" ref="tickets"/>
+    <file name="2017-paris-international-salsa-congress-graphic-couple-2-u93041_2x.png" crc="3804478517" ref="tickets"/>
+    <file name="6af71df152927d0d1a71c792f44a7337a1757047-crop-u927352.png" crc="58640132" ref="tickets"/>
+    <file name="paris-international-salsa-congress-boat-crop-u1965902.png" crc="3976633092" ref="tickets"/>
+    <file name="paris-international-salsa-congress-boat-crop-u196590_2x2.png" crc="147584745" ref="tickets"/>
+    <file name="2017-paris-international-salsa-congress-graphic-couple-2-u930412.png" crc="341840605" ref="tickets"/>
+    <file name="2017-paris-international-salsa-congress-graphic-couple-2-u93041_2x2.png" crc="189292033" ref="tickets"/>
+    <file name="6af71df152927d0d1a71c792f44a7337a1757047-crop-u927353.png" crc="3961910712" ref="tickets"/>
+    <file name="paris-international-salsa-congress-boat.jpg" crc="4177856231" seo="true" ref="tickets"/>
+    <file name="paris-international-salsa-congress-boat_2x.jpg" crc="3973789547" seo="true" ref="tickets"/>
+    <file name="2017-paris-international-salsa-congress-graphic-couple-2-u930413.png" crc="48936025" ref="tickets"/>
+    <file name="2017-paris-international-salsa-congress-graphic-couple-2-u93041_2x3.png" crc="38672098" ref="tickets"/>
+    <file name="paris-international-salsa-congress-mouaze-logo.png" crc="276536603" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-mouaze-logo_2x.png" crc="4109975794" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-mouaze-crop-u94412.png" crc="481333527" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-mouaze-style-crop-u183712.png" crc="4212382735" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-ella-crop-u183720.png" crc="4171134654" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-christophe-chikli-crop-u183735.png" crc="4243977978" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-christophe-chikli-crop-u183735_2x.png" crc="150502710" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-muriel245x252.jpg" crc="401082994" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-muriel245x252_2x.jpg" crc="532292693" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-julien-crop-u183731.png" crc="4205517322" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-julien-crop-u183731_2x.png" crc="13572832" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-eleonore-crop-u183718.png" crc="134016471" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-steph-crop-u183728.png" crc="3862240221" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-steph-crop-u183728_2x.png" crc="4104230590" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-yegor-kozlov245x282.jpg" crc="3890635407" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-yegor-kozlov245x282_2x.jpg" crc="3908004505" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-david-dijoux-crop-u183733.png" crc="415515573" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-david-dijoux-crop-u183733_2x.png" crc="3874368793" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-pablo-montero-crop-u191964.png" crc="283784397" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-nera-crop-u191972.png" crc="522607731" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-monsieur-z-crop-u191985.png" crc="4193437408" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-monsieur-z-crop-u191985_2x.png" crc="3855740445" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-camera-steve-crop-u191966.png" crc="314086695" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-martin-dpix-crop-u191983.png" crc="456280293" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-slimane-brahimi245x297.jpg" crc="306944505" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-slimane-brahimi245x297_2x.jpg" crc="91815885" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-valentin-behringer-crop-u191980.png" crc="144607928" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-andrei-ka-crop-u191968.png" crc="411238937" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-andrei-ka-crop-u191968_2x.png" crc="3842890470" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-luka-kivela-crop-u191908.png" crc="3902160387" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-alfil-crop-u191936.png" crc="226877879" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-alfil-crop-u191936_2x.png" crc="363427641" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-mouaze-crop-u944122.png" crc="213213345" ref="team"/>
+    <file name="paris-international-salsa-congress-banner-2697x68.jpg" crc="257965315" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-mouaze-style-crop-u1837122.png" crc="4185028433" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-ella-crop-u1837202.png" crc="179904451" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-christophe-chikli-crop-u1837352.png" crc="400300609" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-christophe-chikli-crop-u183735_2x2.png" crc="30627166" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-muriel198x203.jpg" crc="58534172" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-muriel198x203_2x.jpg" crc="310339717" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-julien-crop-u1837312.png" crc="4175004816" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-julien-crop-u183731_2x2.png" crc="4243948417" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-eleonore-crop-u1837182.png" crc="337173941" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-steph-crop-u1837282.png" crc="229427029" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-steph-crop-u183728_2x2.png" crc="3871284489" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-yegor-kozlov204x234.jpg" crc="206626445" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-yegor-kozlov204x234_2x.jpg" crc="3983371663" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-david-dijoux-crop-u1837332.png" crc="497576712" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-david-dijoux-crop-u183733_2x2.png" crc="132309635" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-pablo-montero-crop-u1919642.png" crc="4007731210" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-nera-crop-u1919722.png" crc="382713398" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-monsieur-z-crop-u1919852.png" crc="388593914" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-monsieur-z-crop-u191985_2x2.png" crc="3889576132" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-camera-steve-crop-u1919662.png" crc="3978439150" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-martin-dpix-crop-u1919832.png" crc="3795111936" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-slimane-brahimi198x239.jpg" crc="4252374695" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-slimane-brahimi198x239_2x.jpg" crc="4039735190" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-valentin-behringer-crop-u1919802.png" crc="396090973" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-andrei-ka-crop-u1919682.png" crc="296818969" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-andrei-ka-crop-u191968_2x2.png" crc="4168349608" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-luka-kivela-crop-u1919082.png" crc="4120982426" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-alfil-crop-u1919362.png" crc="38032279" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-alfil-crop-u191936_2x2.png" crc="310039320" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-mouaze-crop-u944123.png" crc="213213345" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-mouaze-style-crop-u1837123.png" crc="3776095181" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-ella-crop-u1837203.png" crc="4196186942" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-christophe-chikli-crop-u1837353.png" crc="3958942241" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-christophe-chikli-crop-u183735_2x3.png" crc="68826508" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-muriel.jpg" crc="3845461444" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-muriel_2x.jpg" crc="532675186" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-julien-crop-u1837313.png" crc="90845620" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-julien-crop-u183731_2x3.png" crc="3993924695" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-eleonore-crop-u1837183.png" crc="276017620" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-steph-crop-u1837283.png" crc="4091447789" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-steph-crop-u183728_2x3.png" crc="32781567" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-yegor-kozlov.jpg" crc="4020745758" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-yegor-kozlov_2x.jpg" crc="3921458599" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-david-dijoux-crop-u1837333.png" crc="240636855" ref="team"/>
+    <file name="paris-international-salsa-congress-about-us-david-dijoux-crop-u183733_2x3.png" crc="67703060" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-pablo-montero-crop-u1919643.png" crc="4246185576" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-nera-crop-u1919723.png" crc="3764499215" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-monsieur-z-crop-u1919853.png" crc="3964667341" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-monsieur-z-crop-u191985_2x3.png" crc="3796321427" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-camera-steve-crop-u1919663.png" crc="322332472" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-martin-dpix-crop-u1919833.png" crc="4206325697" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-slimane-brahimi.jpg" crc="164837898" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-slimane-brahimi_2x.jpg" crc="91815885" seo="true" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-valentin-behringer-crop-u1919803.png" crc="425079214" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-andrei-ka-crop-u1919683.png" crc="360446227" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-andrei-ka-crop-u191968_2x3.png" crc="4214866405" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-alfil-crop-u1919363.png" crc="161623523" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-alfil-crop-u191936_2x3.png" crc="4085575258" ref="team"/>
+    <file name="paris-international-salsa-congress-artists-luka-kivela-crop-u1919083.png" crc="141793336" ref="team"/>
+    <file name="paris-international-salsa-congress-banner-5.jpg" crc="3861927756" seo="true" ref="choreo-challenge"/>
+    <file name="445-crop-u101387.png" crc="3788170486" ref="choreo-challenge"/>
+    <file name="445-crop-u101387_2x.png" crc="48405877" ref="choreo-challenge"/>
+    <file name="20 b-sergio - bianca-crop-u101327.png" crc="151908815" ref="choreo-challenge"/>
+    <file name="paris-international-salsa-congress-2017-illustration-mexico-u124573.png" crc="3829498267" ref="choreo-challenge"/>
+    <file name="paris-international-salsa-congress-2017-illustration-mexico-u124573_2x.png" crc="489017265" ref="choreo-challenge"/>
+    <file name="paris-international-salsa-congress-2017-illustration-agua-u124685.png" crc="254520981" ref="choreo-challenge"/>
+    <file name="05 karel flores-crop-u101323.png" crc="3781886464" ref="choreo-challenge"/>
+    <file name="05 karel flores-crop-u101323_2x.png" crc="441007919" ref="choreo-challenge"/>
+    <file name="paris-international-salsa-congress-banner-5698x68.jpg" crc="3938697927" seo="true" ref="choreo-challenge"/>
+    <file name="445-crop-u1013872.png" crc="4016112258" ref="choreo-challenge"/>
+    <file name="445-crop-u101387_2x2.png" crc="4213341993" ref="choreo-challenge"/>
+    <file name="20 b-sergio - bianca-crop-u1013272.png" crc="504469748" ref="choreo-challenge"/>
+    <file name="paris-international-salsa-congress-2017-illustration-mexico-u1245732.png" crc="3847891498" ref="choreo-challenge"/>
+    <file name="paris-international-salsa-congress-2017-illustration-mexico-u124573_2x2.png" crc="3835114009" ref="choreo-challenge"/>
+    <file name="paris-international-salsa-congress-2017-illustration-agua-u1246852.png" crc="520610105" ref="choreo-challenge"/>
+    <file name="05 karel flores-crop-u1013232.png" crc="4078540326" ref="choreo-challenge"/>
+    <file name="05 karel flores-crop-u101323_2x2.png" crc="4249203670" ref="choreo-challenge"/>
+    <file name="445-crop-u1013873.png" crc="3964255116" ref="choreo-challenge"/>
+    <file name="445-crop-u101387_2x3.png" crc="311285747" ref="choreo-challenge"/>
+    <file name="20 b-sergio - bianca-crop-u1013273.png" crc="504469748" ref="choreo-challenge"/>
+    <file name="paris-international-salsa-congress-2017-illustration-mexico-u1245733.png" crc="4041445566" ref="choreo-challenge"/>
+    <file name="paris-international-salsa-congress-2017-illustration-mexico-u124573_2x3.png" crc="300669971" ref="choreo-challenge"/>
+    <file name="paris-international-salsa-congress-2017-illustration-agua-u1246853.png" crc="520610105" ref="choreo-challenge"/>
+    <file name="05 karel flores-crop-u1013233.png" crc="4078540326" ref="choreo-challenge"/>
+    <file name="05 karel flores-crop-u101323_2x3.png" crc="4249203670" ref="choreo-challenge"/>
+    <file name="paris-international-salsa-congress-banner-9.jpg" crc="193329098" seo="true" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-01.jpg" crc="488133547" seo="true" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-02-crop-u193660.png" crc="4073768369" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-03.jpg" crc="507874884" seo="true" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-04-crop-u193654.png" crc="4148655713" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-05.jpg" crc="3813207748" seo="true" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-01-crop-u193657.png" crc="3786302906" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-02732x489.jpg" crc="3949974035" seo="true" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-03841x488.jpg" crc="507874884" seo="true" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-04-crop-u1936542.png" crc="251701547" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-05733x488.jpg" crc="210532999" seo="true" ref="workshops"/>
+    <file name="paris-international-salsa-congress-banner-9714x69.jpg" crc="4130190020" seo="true" ref="workshops"/>
+    <file name="paris-international-salsa-congress-banner-9700x68.jpg" crc="4022172442" seo="true" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-01-crop-u1936572.png" crc="4034906709" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-02-crop-u1936602.png" crc="239359479" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-03-crop-u193651.png" crc="3788040847" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-04-crop-u1936543.png" crc="479203042" ref="workshops"/>
+    <file name="2017-paris-international-salsa-congress-workshops-05-crop-u193883.png" crc="201083382" ref="workshops"/>
+    <file name="dot-w2-p50-alpha.gif" crc="466209776" ref="early-pass-2018"/>
+    <file name="dot-w2-p50-alpha_2x.gif" crc="466209776" ref="early-pass-2018"/>
+    <file name="pasted-svg-27187x60.svg" crc="118198211" seo="true" ref="early-pass-2018"/>
+    <file name="pasted svg 27187x60_poster_.png" crc="25200519" ref="early-pass-2018"/>
+    <file name="pasted-svg-43088x40.svg" crc="483792013" seo="true" ref="early-pass-2018"/>
+    <file name="pasted svg 43088x40_poster_.png" crc="189358541" ref="early-pass-2018"/>
+    <file name="pasted-svg-708893x219.svg" crc="377208848" seo="true" ref="early-pass-2018"/>
+    <file name="pasted svg 708893x219_poster_.png" crc="4146446158" ref="early-pass-2018"/>
+    <file name="paris-international-salsa-congress-2018-mobile-slideshow-1.jpg" crc="97985770" seo="true" ref="early-pass-2018"/>
+    <file name="paris-international-salsa-congress-2018-mobile-slideshow-2.jpg" crc="3795730982" seo="true" ref="early-pass-2018"/>
+    <file name="paris-international-salsa-congress-2018-mobile-slideshow-3.jpg" crc="4105407486" seo="true" ref="early-pass-2018"/>
+    <file name="paris-international-salsa-congress-2018-mobile-slideshow-4.jpg" crc="7149606" seo="true" ref="early-pass-2018"/>
+    <file name="paris-international-salsa-congress-2018-mobile-slideshow-5.jpg" crc="4237178847" seo="true" ref="early-pass-2018"/>
+    <file name="paris-international-salsa-congress-2018-mobile-slideshow-6.jpg" crc="524004075" seo="true" ref="early-pass-2018"/>
+    <file name="paris-international-salsa-congress-2018-mobile-slideshow-7.jpg" crc="19096546" seo="true" ref="early-pass-2018"/>
+    <file name="loading.gif" crc="3815509949" ref="early-pass-2018"/>
+  </folder>
+  <file name="index.html" crc="381228572" seo="true" mt="1499343852311" redirect="true"/>
+  <file name="line-up.html" crc="199951799" seo="true" mt="1499343852311" redirect="true"/>
+  <file name="program.html" crc="3936206239" seo="true" mt="1499343852311" redirect="true"/>
+  <file name="location.html" crc="4281913082" seo="true" mt="1499343852311" redirect="true"/>
+  <file name="tickets.html" crc="4042048696" seo="true" mt="1499343852311" redirect="true"/>
+  <file name="team.html" crc="156506750" seo="true" mt="1499343852311" redirect="true"/>
+  <file name="choreo-challenge.html" crc="4119984602" seo="true" mt="1499343852311" redirect="true"/>
+  <file name="workshops.html" crc="111955715" seo="true" mt="1499343852311" redirect="true"/>
+  <file name="early-pass-2018.html" crc="3769107346" seo="true" mt="1493575875220" redirect="true"/>
+  <site>
+    <asset filename="paris-international-salsa-congress-2018-web-logo-symbol.png" muse_href="upload:U198657"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Welcome" filename="index.html" muse_href="page:U64731" master="U59">
+        <breakpoint uid="U130124" maxwidth="768" minwidth="0" squishy="false"/>
+        <breakpoint uid="U124418" maxwidth="1170" minwidth="769" squishy="false"/>
+        <breakpoint uid="U64576" maxwidth="1370" minwidth="1171" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U55" uid="U59">
+        <breakpoint uid="U151263" maxwidth="768" minwidth="0" squishy="false"/>
+        <breakpoint uid="U131372" maxwidth="1170" minwidth="769" squishy="false"/>
+        <breakpoint uid="U42347" maxwidth="1370" minwidth="1171" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U55">
+        <breakpoint uid="U42352" maxwidth="1370" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Line-Up" filename="line-up.html" muse_href="page:U73859" master="U59">
+        <breakpoint uid="U181237" maxwidth="768" minwidth="0" squishy="false"/>
+        <breakpoint uid="U127800" maxwidth="1170" minwidth="769" squishy="false"/>
+        <breakpoint uid="U73348" maxwidth="1370" minwidth="1171" squishy="false"/>
+      </page>
+      <page name="Program" filename="program.html" muse_href="page:U89400" master="U59">
+        <breakpoint uid="U148938" maxwidth="768" minwidth="0" squishy="false"/>
+        <breakpoint uid="U128813" maxwidth="1170" minwidth="769" squishy="false"/>
+        <breakpoint uid="U88229" maxwidth="1370" minwidth="1171" squishy="false"/>
+      </page>
+      <page name="Location" filename="location.html" muse_href="page:U92245" master="U59">
+        <breakpoint uid="U178899" maxwidth="768" minwidth="0" squishy="false"/>
+        <breakpoint uid="U129413" maxwidth="1170" minwidth="769" squishy="false"/>
+        <breakpoint uid="U91946" maxwidth="1370" minwidth="1171" squishy="false"/>
+      </page>
+      <page name="Tickets" filename="tickets.html" muse_href="page:U92870" master="U59">
+        <breakpoint uid="U174632" maxwidth="768" minwidth="0" squishy="false"/>
+        <breakpoint uid="U128584" maxwidth="1170" minwidth="769" squishy="false"/>
+        <breakpoint uid="U92584" maxwidth="1370" minwidth="1171" squishy="false"/>
+      </page>
+      <page name="Team" filename="team.html" muse_href="page:U94395" master="U59">
+        <breakpoint uid="U179503" maxwidth="768" minwidth="0" squishy="false"/>
+        <breakpoint uid="U125300" maxwidth="1170" minwidth="769" squishy="false"/>
+        <breakpoint uid="U93997" maxwidth="1370" minwidth="1171" squishy="false"/>
+      </page>
+      <page name="Choreo Challenge" filename="choreo-challenge.html" muse_href="page:U101109" master="U59">
+        <breakpoint uid="U178426" maxwidth="768" minwidth="0" squishy="false"/>
+        <breakpoint uid="U129189" maxwidth="1170" minwidth="769" squishy="false"/>
+        <breakpoint uid="U100947" maxwidth="1370" minwidth="1171" squishy="false"/>
+      </page>
+      <page name="Workshops" filename="workshops.html" muse_href="page:U192749" master="U59">
+        <breakpoint uid="U192591" maxwidth="768" minwidth="0" squishy="false"/>
+        <breakpoint uid="U192184" maxwidth="1170" minwidth="769" squishy="false"/>
+        <breakpoint uid="U192328" maxwidth="1370" minwidth="1171" squishy="false"/>
+      </page>
+      <page name="Early Pass 2018" filename="early-pass-2018.html" muse_href="page:U198135" master="U55">
+        <breakpoint uid="U199716" maxwidth="1170" minwidth="0" squishy="false"/>
+        <breakpoint uid="U198091" maxwidth="1370" minwidth="1171" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>

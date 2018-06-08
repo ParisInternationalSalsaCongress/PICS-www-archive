@@ -1,0 +1,16 @@
+# Begin Muse Generated redirects
+# End Muse Generated redirects
+# RewriteEngine On
+# RewriteCond %{HTTP_HOST} ^www.parissalsacongress.com [NC]
+# RewriteRule ^(.*)$ https://parissalsacongress.com/ [L,R=301]
+
+# RedirectMatch ^/$ /2018/
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(www.)?parissalsacongress.com$
+RewriteCond %{REQUEST_URI} !^/2018/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /2018/$1
+RewriteCond %{HTTP_HOST} ^(www.)?parissalsacongress.com$
+RewriteRule ^(/)?$ https://parissalsacongress.com/2018/ [L]

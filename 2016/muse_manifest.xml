@@ -1,0 +1,390 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" ftp_hostname="ftp://home584615528.1and1-data.host" ftp_rootfolder="//2016" exportTarget="FTP" domain="www.parissalsacongress.com/2016" resolutions="1x,2x" timestamp="1499344498099">
+  <folder name="css">
+    <file name="site_global.css" crc="3955840466"/>
+    <file name="master_a-master.css" crc="4248438535" ref="index:program:friends:artists:about-us:location:bootcamps:workshops"/>
+    <file name="index.css" crc="260383647" ref="index"/>
+    <file name="program.css" crc="493451328" ref="program"/>
+    <file name="friends.css" crc="3763534488" ref="friends"/>
+    <file name="artists.css" crc="389208498" ref="artists"/>
+    <file name="about-us.css" crc="4218438354" ref="about-us"/>
+    <file name="location.css" crc="530574919" ref="location"/>
+    <file name="bootcamps.css" crc="499578462" ref="bootcamps"/>
+    <file name="workshops.css" crc="3811229854" ref="workshops"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>artists:phone>program:phone>workshops:phone>bootcamps:phone>venue:phone>tickets:phone>about-us:phone>pisc2016:phone>home-backup:index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:phone>artists:phone>program:phone>workshops:phone>bootcamps:phone>venue:phone>tickets:phone>about-us:phone>pisc2016:phone>home-backup:index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>artists:phone>program:phone>workshops:phone>bootcamps:phone>venue:phone>tickets:phone>about-us:phone>pisc2016:phone>home-backup:index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="museconfig.js" crc="36584860" ref="phone>index:phone>artists:phone>program:phone>workshops:phone>bootcamps:phone>venue:phone>tickets:phone>about-us:phone>pisc2016:phone>home-backup:index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>artists:phone>program:phone>workshops:phone>bootcamps:phone>venue:phone>tickets:phone>about-us:phone>pisc2016:phone>home-backup:index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:phone>artists:phone>program:phone>workshops:phone>bootcamps:phone>venue:phone>tickets:phone>about-us:phone>pisc2016:phone>home-backup:index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>artists:phone>program:phone>workshops:phone>bootcamps:phone>venue:phone>tickets:phone>about-us:phone>pisc2016:phone>home-backup:index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="require.js" crc="244322403" ref="phone>index:phone>artists:phone>program:phone>workshops:phone>bootcamps:phone>venue:phone>tickets:phone>about-us:phone>pisc2016:phone>home-backup:index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="webpro.js" crc="3848665353" ref="index:program:location"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:program:location"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:program:location"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:program:location"/>
+  </folder>
+  <folder name="images">
+    <file name="paris-international-salsa-congress-intro-01-crop-u24343.jpg" crc="242788683" ref="phone>index"/>
+    <file name="paris-international-salsa-congress-logo.jpg" crc="4263095309" seo="true" ref="phone>index:index"/>
+    <file name="paris-international-salsa-congress-logo_2x.jpg" crc="4266468037" seo="true" ref="phone>index:index"/>
+    <file name="paris-international-salsa-congress-intro-02-crop-u24359.jpg" crc="508162736" ref="phone>index"/>
+    <file name="paris-international-salsa-congress-intro-02-crop-u24359_2x.jpg" crc="4229574966" ref="phone>index"/>
+    <file name="paris-international-salsa-congress-intro-03378x215.jpg" crc="282157744" seo="true" ref="phone>index"/>
+    <file name="paris-international-salsa-congress-intro-03378x215_2x.jpg" crc="237985468" seo="true" ref="phone>index"/>
+    <file name="paris-international-salsa-congress-intro-04378x215.jpg" crc="278616249" seo="true" ref="phone>index"/>
+    <file name="paris-international-salsa-congress-intro-04378x215_2x.jpg" crc="4289675872" seo="true" ref="phone>index"/>
+    <file name="paris-international-salsa-congress-intro-05378x215.jpg" crc="396733541" seo="true" ref="phone>index"/>
+    <file name="paris-international-salsa-congress-intro-05378x215_2x.jpg" crc="256145212" seo="true" ref="phone>index"/>
+    <file name="paris-international-salsa-congress-logo-footer80x245.png" crc="55624137" seo="true" ref="phone>index"/>
+    <file name="paris-international-salsa-congress-logo-footer80x245_2x.png" crc="156750217" seo="true" ref="phone>index"/>
+    <file name="paris-international-salsa-congress-hyatt-regency-logo.png" crc="3793299751" seo="true" ref="phone>index:phone>artists:phone>program:phone>workshops:phone>bootcamps:phone>venue:phone>tickets:phone>about-us:phone>pisc2016:phone>home-backup:index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-airfrance-logo.jpg" crc="227318115" seo="true" ref="phone>index:phone>artists:phone>program:phone>workshops:phone>bootcamps:phone>venue:phone>tickets:phone>about-us:phone>pisc2016:phone>home-backup"/>
+    <file name="paris-international-salsa-congress-menu-icon.jpg" crc="185723148" seo="true" ref="index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-facebook18x18.jpg" crc="81556115" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-facebook_2x.jpg" crc="81556115" seo="true" ref="index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-language-french.jpg" crc="136786148" seo="true" ref="index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-language-french_2x.jpg" crc="136786148" seo="true" ref="index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-intro-01.jpg" crc="317582726" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-intro-02.jpg" crc="96452982" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-intro-03.jpg" crc="405892228" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-intro-04.jpg" crc="175674695" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-intro-05.jpg" crc="3899422410" seo="true" ref="index"/>
+    <file name="logo-radio-latina.gif" crc="64576655" seo="true" ref="index"/>
+    <file name="logo-radio-latina_2x.gif" crc="64576655" seo="true" ref="index"/>
+    <file name="screenshot-video.jpg" crc="4076947327" seo="true" ref="index"/>
+    <file name="screenshot-video_2x.jpg" crc="3871325655" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-graphic-10.png" crc="3995811981" seo="true" ref="index"/>
+    <file name="paris-international-salsa-congress-graphic-10_2x.png" crc="4244738917" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="paris-international-salsa-congress-airfrance-klm.jpg" crc="4038896045" seo="true" ref="index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-airfrance-klm_2x.jpg" crc="184048112" seo="true" ref="index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-logo-footer.png" crc="4104842513" seo="true" ref="index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-logo-footer_2x.png" crc="156750217" seo="true" ref="index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-facebook.jpg" crc="81556115" seo="true" ref="index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-tickets-button-u33890.png" crc="455876189" ref="index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-tickets-button-u33890_2x.png" crc="4250238498" ref="index:program:about-us:friends:artists:workshops:bootcamps:location"/>
+    <file name="paris-international-salsa-congress-boat-concorde-atlantic.jpg" crc="4069683248" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-salsounds.jpg" crc="395302779" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-osullivans.jpg" crc="502892900" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-programe-photo-01.jpg" crc="3777480586" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-graphic-02.png" crc="80418596" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-programe-photo-02.jpg" crc="279298096" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-graphic-01.png" crc="47229023" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-programe-photo-03.jpg" crc="3900911915" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-graphic-04.png" crc="4014747012" seo="true" ref="program"/>
+    <file name="u15349.png" crc="3831711218" ref="program"/>
+    <file name="u15349_2x.png" crc="4217597773" ref="program"/>
+    <file name="u15349-r.png" crc="3831711218" ref="program"/>
+    <file name="u15349-r_2x.png" crc="4217597773" ref="program"/>
+    <file name="u15349-m.png" crc="3831711218" ref="program"/>
+    <file name="u15349-m_2x.png" crc="4217597773" ref="program"/>
+    <file name="u15349-a.png" crc="3831711218" ref="program"/>
+    <file name="u15349-a_2x.png" crc="4217597773" ref="program"/>
+    <file name="u41751.png" crc="3831711218" ref="program"/>
+    <file name="u41751_2x.png" crc="4217597773" ref="program"/>
+    <file name="u41751-r.png" crc="3831711218" ref="program"/>
+    <file name="u41751-r_2x.png" crc="4217597773" ref="program"/>
+    <file name="u41751-a.png" crc="3831711218" ref="program"/>
+    <file name="u41751-a_2x.png" crc="4217597773" ref="program"/>
+    <file name="paris-international-salsa-congress-hyatt-regency-logo-minimap.jpg" crc="21023815" seo="true" ref="program:location"/>
+    <file name="paris-international-salsa-congress-minimap-studio-intensive-dance.jpg" crc="3789512772" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-minimap-studio-intensive-dance_2x.jpg" crc="105574216" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-minimap-osullivans.jpg" crc="176104025" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-minimap-osullivans_2x.jpg" crc="264797055" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-minimap-boat-concorde-atlantique.jpg" crc="4196496704" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-minimap-boat-concorde-atlantique_2x.jpg" crc="4112990764" seo="true" ref="program"/>
+    <file name="paris-international-salsa-congress-mouaze-logo.png" crc="533464970" seo="true" ref="about-us"/>
+    <file name="paris-international-salsa-congress-artists-mouaze-style.jpg" crc="4236435628" seo="true" ref="about-us"/>
+    <file name="paris-international-salsa-congress-artists-mouaze-crop-u40534.jpg" crc="227903042" ref="about-us"/>
+    <file name="paris-international-salsa-congress-artists-ella-crop-u40575.jpg" crc="9087675" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-freddy.jpg" crc="262924151" seo="true" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-freddy_2x.jpg" crc="4273185454" seo="true" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-wafa-crop-u40356.jpg" crc="3895510451" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-wafa-crop-u40356_2x.jpg" crc="441762013" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-fanny.jpg" crc="367592863" seo="true" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-fanny_2x.jpg" crc="4015108767" seo="true" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-muriel.jpg" crc="4122276042" seo="true" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-muriel_2x.jpg" crc="4250072523" seo="true" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-eleonore-crop-u40354.jpg" crc="4021574976" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-yoann-crop-u40352.jpg" crc="4162768408" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-yoann-crop-u40352_2x.jpg" crc="284044999" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-julien-crop-u40371.jpg" crc="4163286607" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-julien-crop-u40371_2x.jpg" crc="4263235904" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-steph-crop-u40524.jpg" crc="528356198" ref="about-us"/>
+    <file name="paris-international-salsa-congress-about-us-steph-crop-u40524_2x.jpg" crc="221578070" ref="about-us"/>
+    <file name="paris-international-salsa-congress-artists-yannick-crop-u40373.jpg" crc="4055319841" ref="about-us"/>
+    <file name="paris-international-salsa-congress-friends-ahinama.jpg" crc="4219875984" seo="true" ref="friends"/>
+    <file name="paris-international-salsa-congress-friends-suave.jpg" crc="4248714256" seo="true" ref="friends"/>
+    <file name="paris-international-salsa-congress-friends-suave_2x.jpg" crc="3819595583" seo="true" ref="friends"/>
+    <file name="paris-international-salsa-congress-friends-frankfurt-festival.jpg" crc="3864595469" seo="true" ref="friends"/>
+    <file name="paris-international-salsa-congress-friends-frankfurt-festival_2x.jpg" crc="3776859787" seo="true" ref="friends"/>
+    <file name="paris-international-salsa-congress-friends-riga-bachata-festival.jpg" crc="3930442687" seo="true" ref="friends"/>
+    <file name="paris-international-salsa-congress-friends-riga-bachata-festival_2x.jpg" crc="4065041520" seo="true" ref="friends"/>
+    <file name="paris-international-salsa-congress-friends-salsa-addicted.jpg" crc="201529560" seo="true" ref="friends"/>
+    <file name="paris-international-salsa-congress-friends-salsa-splash.jpg" crc="4071134689" seo="true" ref="friends"/>
+    <file name="paris-international-salsa-congress-friends-salsa-splash_2x.jpg" crc="316303804" seo="true" ref="friends"/>
+    <file name="paris-international-salsa-congress-graphic-07.png" crc="3970568395" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-graphic-07_2x.png" crc="3777181425" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-yamulee.jpg" crc="4117114560" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-griselle-ponce.jpg" crc="217628648" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-frankling-diaz.jpg" crc="3826708074" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-karel-flores.jpg" crc="455115265" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-mouaze-and-ella.jpg" crc="11680858" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-mouaze-and-fanny.jpg" crc="260669916" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-euphoria.jpg" crc="399597627" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-terry-and-cecile.jpg" crc="335678088" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-eddie-torres.jpg" crc="3967621759" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-judith-borzasi.jpg" crc="3815375792" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-leon-rose-project.jpg" crc="237042468" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-talal-and-edita.jpg" crc="517955740" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-shelina-and-group.jpg" crc="4203958144" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-alegria-dc.jpg" crc="370959772" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-palamambo.jpg" crc="234231991" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-aude.jpg" crc="304972589" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-julien-and-louiza.jpg" crc="107714117" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-rafal-and-karina.jpg" crc="4282420002" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-aura-group.jpg" crc="4089008882" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-salsabor.jpg" crc="192443654" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-alberto-valdes-and-andria-panagi.jpg" crc="4240750028" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-pedrito-giusy.jpg" crc="11183756" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-davide-and-elena.jpg" crc="284640325" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-kwenda-lima.jpg" crc="3849306623" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-ricardo-and-paula.jpg" crc="4184788832" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-miguel-and-marlene.jpg" crc="4233077310" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-georges-and-laura.jpg" crc="3788568924" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-alma-latina.jpg" crc="535172495" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-fabrice-and-joanna-crop-u41139.jpg" crc="43222223" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-morgan-and-elodie.jpg" crc="478531034" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-original-magik-step.jpg" crc="3870121979" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-willy-crop-u35053.jpg" crc="19252917" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-el-malo-crop-u35115.jpg" crc="232599103" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-gabriel-dj-crop-u35017.jpg" crc="11049059" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-willy-dj-viper-crop-u35006.jpg" crc="3925296645" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-mulato-crop-u35122.jpg" crc="3993333435" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-loic-crop-u35138.jpg" crc="114277837" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-sergio-crop-u35081.jpg" crc="4089621470" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-cyrine-crop-u35034.jpg" crc="4078436072" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-69-crop-u34968.jpg" crc="3988799384" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-phil-and-madj-crop-u35038.jpg" crc="3973014721" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-jack-elcalvo-crop-u35188.jpg" crc="3840007822" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-jack-elcalvo-crop-u35188_2x.jpg" crc="4046137333" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-amine-crop-u35021.jpg" crc="4129351215" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-didi-elciclon-crop-u40545.jpg" crc="84536486" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-zayx-crop-u35200.jpg" crc="4081214091" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-alnova-crop-u34937.jpg" crc="511021060" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-lionnax-crop-u40497.jpg" crc="3779870805" ref="artists"/>
+    <file name="dj-latinoboy-crop-u39634.jpg" crc="3783472228" ref="artists"/>
+    <file name="dj-el-hombre-crop-u39639.jpg" crc="307848380" ref="artists"/>
+    <file name="dj-el-hombre-crop-u39639_2x.jpg" crc="4256105616" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-dj-mixlab-crop-u41122.jpg" crc="3990243826" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-pablo-montero-crop-u35126.jpg" crc="4224389816" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-pablo-montero-crop-u35126_2x.jpg" crc="300266028" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-nera-crop-u37528.jpg" crc="455655986" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-monsieur-z-crop-u37323.jpg" crc="429754356" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-sonia.jpg" crc="3956027582" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-camera-steve-crop-u34977.jpg" crc="257364249" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-camera-steve-crop-u34977_2x.jpg" crc="4148575742" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-valentin-behringer.jpg" crc="3768141196" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-valentin-behringer_2x.jpg" crc="407419358" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-martin-dpix.jpg" crc="198566663" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-slimane-brahimi.jpg" crc="5922469" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-slimane-brahimi_2x.jpg" crc="91815885" seo="true" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-feel-prod-crop-u37530.jpg" crc="3835675703" ref="artists"/>
+    <file name="paris-international-salsa-congress-artists-franck-billaux-crop-u39612.jpg" crc="3885989872" ref="artists"/>
+    <file name="paris-international-salsa-congress-graphic-09.png" crc="4123355496" seo="true" ref="workshops"/>
+    <file name="paris-international-salsa-congress-workshops-01.jpg" crc="207868468" seo="true" ref="workshops"/>
+    <file name="paris-international-salsa-congress-graphic-03.png" crc="184228087" seo="true" ref="bootcamps"/>
+    <file name="paris-international-salsa-congress-alma-latina-bootcamp.jpg" crc="262663445" seo="true" ref="bootcamps"/>
+    <file name="paris-international-salsa-congress-karel-flores-bootcamp.jpg" crc="3994940036" seo="true" ref="bootcamps"/>
+    <file name="paris-international-salsa-congress-hotel-hyatt-regency-etoile-crop-u38466.jpg" crc="4046196769" ref="location"/>
+    <file name="paris-international-salsa-congress-hotel-hyatt-regency-etoile-crop-u38466_2x.jpg" crc="3935044221" ref="location"/>
+    <file name="paris-international-salsa-congress-hyatt-regency-logo-big.png" crc="308976083" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-hyatt-regency-logo-big_2x.png" crc="209704776" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-graphic-11.png" crc="3973177055" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-graphic-11_2x.png" crc="3952434890" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-airfrance-klm_2x2.jpg" crc="3917921080" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-airfrance-klm_2x_2x.jpg" crc="56676141" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-hotel-fertel-maillot-crop-u38494.jpg" crc="305665211" ref="location"/>
+    <file name="paris-international-salsa-congress-hotel-fertel-etoile-crop-u38461.jpg" crc="4168407738" ref="location"/>
+    <file name="paris-international-salsa-congress-citadines-crop-u38459.jpg" crc="370584729" ref="location"/>
+    <file name="paris-international-salsa-congress-campanile-crop-u38685.jpg" crc="3840449885" ref="location"/>
+    <file name="paris-international-salsa-congress-venue-03.jpg" crc="4019736003" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-venue-02.jpg" crc="3854746241" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-venue-01.jpg" crc="3974805945" seo="true" ref="location"/>
+    <file name="paris-international-salsa-congress-venue-04.jpg" crc="4201902048" seo="true" ref="location"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="441020431" ref="phone>pisc2016:phone>program:phone>index:phone>workshops:phone>tickets:phone>home-backup:phone>artists:phone>about-us:phone>venue:phone>bootcamps"/>
+      <file name="pisc2016.css" crc="179640828" ref="phone>pisc2016"/>
+      <file name="program.css" crc="179640828" ref="phone>program"/>
+      <file name="index.css" crc="85879697" ref="phone>index"/>
+      <file name="workshops.css" crc="179640828" ref="phone>workshops"/>
+      <file name="tickets.css" crc="179640828" ref="phone>tickets"/>
+      <file name="home-backup.css" crc="179640828" ref="phone>home-backup"/>
+      <file name="artists.css" crc="179640828" ref="phone>artists"/>
+      <file name="about-us.css" crc="179640828" ref="phone>about-us"/>
+      <file name="venue.css" crc="179640828" ref="phone>venue"/>
+      <file name="bootcamps.css" crc="179640828" ref="phone>bootcamps"/>
+    </folder>
+    <file name="index.html" crc="4263552618" seo="true" mt="1461324157190" redirect="true"/>
+    <file name="artists.html" crc="4167250271" seo="true" mt="1461324157189" redirect="true"/>
+    <file name="program.html" crc="3861385745" seo="true" mt="1461324157189" redirect="true"/>
+    <file name="workshops.html" crc="399180321" seo="true" mt="1461324157189" redirect="true"/>
+    <file name="bootcamps.html" crc="358750898" seo="true" mt="1461324157189" redirect="true"/>
+    <file name="venue.html" crc="3996421428" seo="true" mt="1461324157189" redirect="true"/>
+    <file name="tickets.html" crc="3859509668" seo="true" mt="1461324157189" redirect="true"/>
+    <file name="about-us.html" crc="4233729187" seo="true" mt="1461324157189" redirect="true"/>
+    <file name="pisc2016.html" crc="3846803286" seo="true" mt="1461324157189" redirect="true"/>
+    <file name="home-backup.html" crc="3864679013" seo="true" mt="1461324157189" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3854431580" seo="true" mt="1499344408272" redirect="true"/>
+  <file name="program.html" crc="4157013453" seo="true" mt="1499344408272" redirect="true"/>
+  <file name="about-us.html" crc="257823393" seo="true" mt="1499344408272" redirect="true"/>
+  <file name="friends.html" crc="435543600" seo="true" mt="1499344408272" redirect="true"/>
+  <file name="artists.html" crc="372082892" seo="true" mt="1499344408272" redirect="true"/>
+  <file name="workshops.html" crc="4100424416" seo="true" mt="1499344408272" redirect="true"/>
+  <file name="bootcamps.html" crc="266217533" seo="true" mt="1499344408272" redirect="true"/>
+  <file name="location.html" crc="4140737552" seo="true" mt="1499344408272" redirect="true"/>
+  <site>
+    <asset filename="pisc2016-workshops-table.pdf" muse_href="upload:U38338"/>
+    <asset filename="pisc-2016-01.mp3" muse_href="upload:U42346"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Welcome" filename="index.html" muse_href="page:U7519" master="U59">
+        <breakpoint uid="U42357" maxwidth="1370" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U55" uid="U59">
+        <breakpoint uid="U42355" maxwidth="1370" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U55">
+        <breakpoint uid="U42359" maxwidth="1370" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Program" filename="program.html" muse_href="page:U13206" master="U59">
+        <breakpoint uid="U42349" maxwidth="1370" minwidth="0" squishy="false"/>
+        <anchor name="program" html_id="program" muse_href="anchor:U12752:U15347" includeInBPs="U42349"/>
+        <anchor name="show" html_id="show" muse_href="anchor:U12752:U41754" includeInBPs="U42349"/>
+      </page>
+      <page name="About Us" filename="about-us.html" muse_href="page:U18409" master="U59">
+        <breakpoint uid="U42369" maxwidth="1370" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Friends" filename="friends.html" muse_href="page:U30237" master="U59">
+        <breakpoint uid="U42351" maxwidth="1370" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Artists" filename="artists.html" muse_href="page:U35278" master="U59">
+        <breakpoint uid="U42350" maxwidth="1370" minwidth="0" squishy="false"/>
+        <anchor name="dj-loic" html_id="dj-loic" muse_href="anchor:U34920:U34925" includeInBPs="U42350"/>
+        <anchor name="dj-cyrine" html_id="dj-cyrine" muse_href="anchor:U34920:U34928" includeInBPs="U42350"/>
+        <anchor name="salsa-cubana" html_id="salsa-cubana" muse_href="anchor:U34920:U34947" includeInBPs="U42350"/>
+        <anchor name="yamulee" html_id="yamulee" muse_href="anchor:U34920:U34948" includeInBPs="U42350"/>
+        <anchor name="davide-and-elena" html_id="davide-and-elena" muse_href="anchor:U34920:U34953" includeInBPs="U42350"/>
+        <anchor name="creative-team" html_id="creative-team" muse_href="anchor:U34920:U34957" includeInBPs="U42350"/>
+        <anchor name="judit-borzasi" html_id="judit-borzasi" muse_href="anchor:U34920:U34959" includeInBPs="U42350"/>
+        <anchor name="griselle-ponce" html_id="griselle-ponce" muse_href="anchor:U34920:U34965" includeInBPs="U42350"/>
+        <anchor name="miguel-monteiro" html_id="miguel-monteiro" muse_href="anchor:U34920:U34976" includeInBPs="U42350"/>
+        <anchor name="dj-zayx" html_id="dj-zayx" muse_href="anchor:U34920:U34979" includeInBPs="U42350"/>
+        <anchor name="salsa-mambo-djs" html_id="salsa-mambo-djs" muse_href="anchor:U34920:U34987" includeInBPs="U42350"/>
+        <anchor name="salsabor-afro-caribbean-soul-company" html_id="salsabor-afro-caribbean-soul-company" muse_href="anchor:U34920:U35000" includeInBPs="U42350"/>
+        <anchor name="kizomba-djs" html_id="kizomba-djs" muse_href="anchor:U34920:U35001" includeInBPs="U42350"/>
+        <anchor name="salsa-mambo" html_id="salsa-mambo" muse_href="anchor:U34920:U35002" includeInBPs="U42350"/>
+        <anchor name="dj-serj" html_id="dj-serj" muse_href="anchor:U34920:U35003" includeInBPs="U42350"/>
+        <anchor name="salsa-cubana-djs" html_id="salsa-cubana-djs" muse_href="anchor:U34920:U35009" includeInBPs="U42350"/>
+        <anchor name="willy-dj-viper" html_id="willy-dj-viper" muse_href="anchor:U34920:U35013" includeInBPs="U42350"/>
+        <anchor name="dj-alnova" html_id="dj-alnova" muse_href="anchor:U34920:U35014" includeInBPs="U42350"/>
+        <anchor name="phil-and-madj" html_id="phil-and-madj" muse_href="anchor:U34920:U35024" includeInBPs="U42350"/>
+        <anchor name="eddie-torres-jr" html_id="eddie-torres-jr" muse_href="anchor:U34920:U35031" includeInBPs="U42350"/>
+        <anchor name="group-aura" html_id="group-aura" muse_href="anchor:U34920:U35046" includeInBPs="U42350"/>
+        <anchor name="franklin-diaz" html_id="franklin-diaz" muse_href="anchor:U34920:U35047" includeInBPs="U42350"/>
+        <anchor name="karel-flores" html_id="karel-flores" muse_href="anchor:U34920:U35055" includeInBPs="U42350"/>
+        <anchor name="dj-amine" html_id="dj-amine" muse_href="anchor:U34920:U35058" includeInBPs="U42350"/>
+        <anchor name="aude" html_id="aude" muse_href="anchor:U34920:U35067" includeInBPs="U42350"/>
+        <anchor name="willy" html_id="willy" muse_href="anchor:U34920:U35070" includeInBPs="U42350"/>
+        <anchor name="julien-and-luiza" html_id="julien-and-luiza" muse_href="anchor:U34920:U35077" includeInBPs="U42350"/>
+        <anchor name="gabriel" html_id="gabriel" muse_href="anchor:U34920:U35078" includeInBPs="U42350"/>
+        <anchor name="jose-diaz-and-euphoria-dance-company" html_id="jose-diaz-and-euphoria-dance-company" muse_href="anchor:U34920:U35086" includeInBPs="U42350"/>
+        <anchor name="palamambo" html_id="palamambo" muse_href="anchor:U34920:U35095" includeInBPs="U42350"/>
+        <anchor name="ricardo-and-paula-afrolatin-connection" html_id="ricardo-and-paula-afrolatin-connection" muse_href="anchor:U34920:U35105" includeInBPs="U42350"/>
+        <anchor name="terry-and-cecile" html_id="terry-and-cecile" muse_href="anchor:U34920:U35107" includeInBPs="U42350"/>
+        <anchor name="jack-elcalvo" html_id="jack-elcalvo" muse_href="anchor:U34920:U35117" includeInBPs="U42350"/>
+        <anchor name="el-malo" html_id="el-malo" muse_href="anchor:U34920:U35118" includeInBPs="U42350"/>
+        <anchor name="dj-69" html_id="dj-69" muse_href="anchor:U34920:U35140" includeInBPs="U42350"/>
+        <anchor name="alma-latina" html_id="alma-latina" muse_href="anchor:U34920:U35147" includeInBPs="U42350"/>
+        <anchor name="mouaze-and-fanny" html_id="mouaze-and-fanny" muse_href="anchor:U34920:U35152" includeInBPs="U42350"/>
+        <anchor name="talal-and-edyta" html_id="talal-and-edyta" muse_href="anchor:U34920:U35157" includeInBPs="U42350"/>
+        <anchor name="shelina-and-glenn-donkers" html_id="shelina-and-glenn-donkers" muse_href="anchor:U34920:U35169" includeInBPs="U42350"/>
+        <anchor name="kwenda-lima" html_id="kwenda-lima" muse_href="anchor:U34920:U35181" includeInBPs="U42350"/>
+        <anchor name="mouaze-and-ella" html_id="mouaze-and-ella" muse_href="anchor:U34920:U35182" includeInBPs="U42350"/>
+        <anchor name="top" html_id="top" muse_href="anchor:U34920:U35190" includeInBPs="U42350"/>
+        <anchor name="leon-rose-project" html_id="leon-rose-project" muse_href="anchor:U34920:U35197" includeInBPs="U42350"/>
+        <anchor name="alberto-valdes-and-andria-panagi" html_id="alberto-valdes-and-andria-panagi" muse_href="anchor:U34920:U35205" includeInBPs="U42350"/>
+        <anchor name="dj-mulato" html_id="dj-mulato" muse_href="anchor:U34920:U35209" includeInBPs="U42350"/>
+        <anchor name="bachata" html_id="bachata" muse_href="anchor:U34920:U35214" includeInBPs="U42350"/>
+        <anchor name="kizomba" html_id="kizomba" muse_href="anchor:U34920:U35219" includeInBPs="U42350"/>
+        <anchor name="original-magik-step" html_id="original-magik-step" muse_href="anchor:U34920:U35343" includeInBPs="U42350"/>
+        <anchor name="pedrito-and-giusy" html_id="pedrito-and-giusy" muse_href="anchor:U34920:U35363" includeInBPs="U42350"/>
+        <anchor name="morgan-and-elodie" html_id="morgan-and-elodie" muse_href="anchor:U34920:U35404" includeInBPs="U42350"/>
+        <anchor name="alegria-dc" html_id="alegria-dc" muse_href="anchor:U34920:U35873" includeInBPs="U42350"/>
+        <anchor name="dj-el-hombre" html_id="dj-el-hombre" muse_href="anchor:U34920:U39642" includeInBPs="U42350"/>
+        <anchor name="dj-latinboy" html_id="dj-latinboy" muse_href="anchor:U34920:U39643" includeInBPs="U42350"/>
+        <anchor name="bachata-djs" html_id="bachata-djs" muse_href="anchor:U34920:U39647" includeInBPs="U42350"/>
+        <anchor name="jazz-rock" html_id="jazz-rock" muse_href="anchor:U34920:U39673" includeInBPs="U42350"/>
+        <anchor name="dj-lionnax" html_id="dj-lionnax" muse_href="anchor:U34920:U40504" includeInBPs="U42350"/>
+        <anchor name="dj-didi-elciclon" html_id="dj-didi-elciclon" muse_href="anchor:U34920:U40549" includeInBPs="U42350"/>
+        <anchor name="georges-and-laura" html_id="georges-and-laura" muse_href="anchor:U34920:U40562" includeInBPs="U42350"/>
+        <anchor name="rafal-and-karina" html_id="rafal-and-karina" muse_href="anchor:U34920:U40999" includeInBPs="U42350"/>
+        <anchor name="dj-mixlab" html_id="dj-mixlab" muse_href="anchor:U34920:U41129" includeInBPs="U42350"/>
+        <anchor name="fabrice-and-joanna" html_id="fabrice-and-joanna" muse_href="anchor:U34920:U41141" includeInBPs="U42350"/>
+      </page>
+      <page name="Workshops" filename="workshops.html" muse_href="page:U36422" master="U59">
+        <breakpoint uid="U42361" maxwidth="1370" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Bootcamps" filename="bootcamps.html" muse_href="page:U37758" master="U59">
+        <breakpoint uid="U42362" maxwidth="1370" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Location" filename="location.html" muse_href="page:U38517" master="U59">
+        <breakpoint uid="U42368" maxwidth="1370" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+    <rendition device="phone">
+      <page name="Welcome" filename="index.html" muse_href="page:U21765" master="U21744">
+        <breakpoint uid="U42365" maxwidth="378" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U21734" uid="U21744">
+        <breakpoint uid="U42353" maxwidth="378" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U21734">
+        <breakpoint uid="U42348" maxwidth="378" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Artists" filename="artists.html" muse_href="page:U21777" master="U21744">
+        <breakpoint uid="U42367" maxwidth="378" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Program" filename="program.html" muse_href="page:U21789" master="U21744">
+        <breakpoint uid="U42352" maxwidth="378" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Workshops" filename="workshops.html" muse_href="page:U21801" master="U21744">
+        <breakpoint uid="U42354" maxwidth="378" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Bootcamps" filename="bootcamps.html" muse_href="page:U21813" master="U21744">
+        <breakpoint uid="U42366" maxwidth="378" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Venue" filename="venue.html" muse_href="page:U21825" master="U21744">
+        <breakpoint uid="U42364" maxwidth="378" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Tickets" filename="tickets.html" muse_href="page:U21837" master="U21744">
+        <breakpoint uid="U42356" maxwidth="378" minwidth="0" squishy="false"/>
+      </page>
+      <page name="About Us" filename="about-us.html" muse_href="page:U21849" master="U21744">
+        <breakpoint uid="U42360" maxwidth="378" minwidth="0" squishy="false"/>
+      </page>
+      <page name="pisc2016" filename="pisc2016.html" muse_href="page:U21861" master="U21744">
+        <breakpoint uid="U42347" maxwidth="378" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Home backup" filename="home-backup.html" muse_href="page:U21873" master="U21744">
+        <breakpoint uid="U42358" maxwidth="378" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
